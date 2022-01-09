@@ -1,0 +1,600 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+<head>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/><title>Who is Liz Vassey dating? Liz Vassey boyfriend, husband</title><meta charset="utf-8"><link href="https://www.whosdatedwho.com/dating/liz-vassey" rel="canonical"/><link href="https://m.whosdatedwho.com/dating/liz-vassey" media="only screen and (max-width: 640px)" rel="alternate"/><meta content="Who is Liz Vassey dating? Liz Vassey boyfriend, husband" name="title"/><meta content="4 November 2021... Liz Vassey news, gossip, photos of Liz Vassey, biography, Liz Vassey boyfriend list 2016. Relationship history. Liz Vassey relationship list. Liz Vassey dating history, 2021, 2020, list of Liz Vassey relationships." name="description"/><meta content="" name="keywords"/><link href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" rel="shortcut icon"/><meta content="https://www.whosdatedwho.com/dating/liz-vassey" property="og:url"/><meta content="Who's Dated Who?" property="og:site_name"/><meta content="589859177821389" property="fb:app_id"/><meta content="Liz Vassey" property="og:title"/><meta content="profile" property="og:type"/><meta content="//img5.bdbphotos.com/images/orig/c/8/c8uh5pe5sa2uepsu.jpg?skj2io4l" property="og:image"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"/><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"/><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"/><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet"/>
+<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&amp;_c=A|2&amp;t=1583745205" rel="stylesheet"/>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/liz-vassey",
+  "name": "Liz Vassey",
+"jobTitle": "Actress",  "url": "https://www.whosdatedwho.com/dating/liz-vassey",
+"birthDate": "1972-08-09",  "spouse": {
+	"@type": "Person",
+  	"name": "David Emmerichs",
+	"url": "https://www.whosdatedwho.com/dating/david-emmerichs"
+  },
+
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 1,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "David Emmerichs",
+        "url": "https://www.whosdatedwho.com/dating/liz-vassey#dating-david-emmerichs",
+		        "image": "//img5.bdbphotos.com/images/orig/k/o/kosa4i2tkrkq2iks.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>
+<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+<script crossorigin="anonymous" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+</meta></head>
+<body data-ff-eid="" data-ff-gx="Type,Person" data-ff-gx-view="" data-ff-id="20727" data-ff-tid="1" data-ff-title="Liz Vassey" data-ff-url="liz-vassey" data-ffw="content" id="ff-page-person">
+<div data-ff-page="20727" data-ff-user="e2a096dc917940636bfcdd6a6e3ceb5f"></div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4356445222935173",
+    enable_page_level_ads: true
+  });
+</script>
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+<div class="ff-page" data-ff-layout="ad-var">
+<div id="ff-header">
+<div class="row collapse">
+<div class="small-1 columns">
+<a href="/" id="ff-header-logo-desktop"><img alt="WDW" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png" style="width:47px;height:40px;"/></a>
+</div>
+<div class="small-7 columns">
+<form action="/search" class="ff-site-search" id="ff-top-search" method="get">
+<div data-ff-hide-views="" data-ff-limit="4" data-ff-oids="20,21" data-ff-placeholder="Search or browse celebrities" data-ff-query="" data-ff-size-medium="" data-ff-submit="" data-ff-tids="1" data-ff-topsearch-input="" data-ff-url-redirect="" data-ffw="auto">
+<div class="ff-auto"><textarea class="inputor" name="q" rows="1"></textarea></div>
+</div>
+<button class="ff-pointer icon-search" type="submit"></button>
+</form>
+</div>
+<div class="small-4 columns">
+<ul class="off-canvas-list" style="padding-left:0;">
+<li><a class="icon-star" href="/popular" title="Browse Popular"><small>popular</small></a></li>
+<li><a class="icon-chart-line" href="/trending" title="Browse Trending"><small>trending</small></a></li>
+<li><a class="icon-lists" href="/lists" title="Browse Lists"><small>lists</small></a></li>
+<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+<li data-ff-action="login" data-ff-social="" data-ff-success-url="http://members.whosdatedwho.com#/topic/liz-vassey" data-ffw="user">
+<a href="#" style="font-size:25px;margin:0;width:4rem;"><i class="icon-user" style="font-size:24px;padding-top: 0;color:#ddd;"></i><small>login</small></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="ff-cont-full ff-droplist" data-ff-layout-block="" data-ff-name="full" style="margin:0 auto;"> <fieldset class="ff-dropitem block-global-adDFP_Navigation" data-ff-id="global.adDFP_Navigation" data-ff-name="global.adDFP_Navigation" data-ff-trx="eb"><div style="margin-top:20px; margin-bottom:20px; min-height:90px;"><div class="ff-advert ff-advert-970x250"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,970x250";
+    e9.noAd = 1;
+//--></script><script src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js" type="text/javascript"></script></div></div></div></div></fieldset> </div>
+<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+<div class="ff-cont-main ff-droplist" data-ff-id="ff-main-content-area" data-ff-layout-block="" data-ff-name="main"> <fieldset class="ff-dropitem block-topic-datingProfile" data-ff-id="topic.datingProfile" data-ff-name="topic.datingProfile" data-ff-trx="eb"><div id="section-liz-vassey" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile"><h2>
+										Liz Vassey 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-liz-vassey"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="margin:0 auto;max-width:700px;max-height:350px;"><div class="ff-banner ff-small" style="max-width:700px;padding-bottom:50%;"><img alt="Liz Vassey" class="" height="350" src="//img4.bdbphotos.com/images/700x350/c/8/c8uh5pe5sa2usuuh.jpg?skj2io4l" style="width:700px;height:350px;" width="700"/></div></div><div class="ff-relationship text-center ff-married"><span>Married</span></div><h1 class="ff-name text-left ff-banner-gradient">
+		
+		Liz Vassey  <span class="ff-smaller">American Actress</span></h1><div class="ff-thumbs"><span aria-haspopup="true" class="has-tip tip-left" data-tooltip="" onclick="contentVote('v20727101',20727,1,0,1,'liz-vassey');return false;" title="I like this"><i class="icon-thumbs-up"></i><v class="v20727101">37</v></span><span aria-haspopup="true" class="has-tip tip-right" data-tooltip="" onclick="contentVote('v2072710-1',20727,1,0,'-1','liz-vassey');return false;" title="I dislike this"><i class="icon-thumbs-down"></i><v class="v2072710-1">1</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a class="ff-edit" data-ff-gx="Edit" data-ff-gx-click="" href="http://members.whosdatedwho.com#/topic/liz-vassey/about"><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small age"><div class="header">Age</div><div class="fact">49</div><div class="footer">years old</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small zodiac"><div class="header">Zodiac</div><div class="fact"><a href="/lists/celebrities-with-star-sign-leo"><i class="icon-leo"></i></a></div><div class="footer">Leo</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact">1</div><div class="footer">total</div></a></div></div></div><div class="ff-advert ff-advert-float"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_article_top_new --><ins class="adsbygoogle" data-ad-client="ca-pub-4356445222935173" data-ad-slot="5751287805" style="display:inline-block;width:300px;height:250px"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><h4 class="ff-auto-status">
+			Who
+			is she
+			dating right now?
+		</h4><div style="position:relative;width:51%;padding-left:108px;height:130px;margin-bottom:20px;"><div style="position:absolute;left:0;top:0"><img alt="Liz Vassey and David Emmerichs" class="" height="130" src="//img4.bdbphotos.com/images/120x156/o/l/olub80jznqd0lo.jpg?skj2io4l" style="width:100px;height:130px;" width="100"/></div><a href="/dating/liz-vassey">Liz Vassey</a> and <a href="/dating/david-emmerichs">David Emmerichs</a> have been married for 17 years since 2nd Dec 2003.
+    			<a class="button radius small" href="liz-vassey-and-david-emmerichs" style="position:absolute;bottom:0;left:108px;right:0;background-color:#ad0400;margin:0;">view relationship</a></div><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="liz-vassey">Liz Vassey</topic> has had no other relationships that we know of.</p><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="liz-vassey">Liz Vassey</topic> is a 49 year old American Actress. Born Elizabeth Leigh Vassey on 9th August, 1972 in Raleigh, North Carolina, USA, she is famous for All of My Children. Her zodiac sign is Leo.</p><p class="ff-auto-about"><topic url="liz-vassey">Liz Vassey</topic> has been in 9 on-screen matchups, including <a href="/dating/charlie-sheen">Charlie Sheen</a> in <i>Two and a Half Men</i><span> (2003)</span>, <a href="/dating/christina-cox">Christina Cox</a> in <i>Nikki and Nora</i><span> (2004)</span>, <a href="/dating/david-emmerichs">David Emmerichs</a> in <i>Two and a Half Men</i><span> (2003)</span>, <a href="/dating/matthew-flint">Matthew Flint</a> in <i>Murder, She Wrote</i><span> (1984)</span> and <a href="/dating/matthew-sheehan">Matthew Sheehan</a> in <i>Quantum Leap</i><span> (1989)</span>.</p><div class="ff-person-profile-detail-toggle hide"><p class="ff-auto-about"><topic url="liz-vassey">Liz Vassey</topic> is a member of the following lists: <a href="/lists/american-film-actors">American film actors</a>, <a href="/lists/american-television-actors">American television actors</a> and <a href="/lists/1972-births">1972 births</a>.</p><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Help us build our profile of Liz Vassey! 
+		<a data-ff-action="login" data-ff-socialx="" data-ff-success-url="http://members.whosdatedwho.com#/topic/liz-vassey" data-ffw="user">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Married</th><td>1</td><td><span aria-haspopup="true" class="has-tip" data-tooltip="" title="Liz Vassey and David Emmerichs">
+								17 years, 3 months
+							</span></td><td>
+													-
+											</td><td>
+													-
+											</td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">1</td><td style="font-style:oblique"><span aria-haspopup="true" class="has-tip" data-tooltip="" title="Liz Vassey and David Emmerichs">
+								17 years, 3 months
+						</span></td><td style="font-style:oblique">
+											-
+									</td><td style="font-style:oblique">
+											-
+									</td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"/><col width="60%"/><tr><td>First Name</td><td>
+															Elizabeth
+													</td></tr><tr><td>Middle Name</td><td>
+															Leigh
+													</td></tr><tr><td>Maiden Name</td><td>
+															Vassey
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															Elizabeth Leigh Vassey
+													</td></tr><tr><td>Alternative Name</td><td>
+															Liz Vassey
+													</td></tr><tr><td>Age</td><td>
+															49 years
+													</td></tr><tr><td>Birthday</td><td>
+															9th August, 1972
+													</td></tr><tr><td>Birthplace</td><td>
+															Raleigh, North Carolina, USA
+													</td></tr><tr><td>Height</td><td>
+															5' 9" (175 cm)
+													</td></tr><tr><td>Weight</td><td>
+															135lbs (61 kg)
+													</td></tr><tr><td>Build</td><td>
+															Athletic
+													</td></tr><tr><td>Eye Color</td><td>
+															Brown - Dark
+													</td></tr><tr><td>Hair Color</td><td>
+															Brown - Dark
+													</td></tr><tr><td>Zodiac Sign</td><td>
+															Leo
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Ethnicity</td><td>
+															White
+													</td></tr><tr><td>Nationality</td><td>
+															American
+													</td></tr><tr><td>University</td><td>
+															University of South Florida, University of Southern California
+													</td></tr><tr><td>Occupation Text</td><td>
+															Actress, Producer, Writer, Model
+													</td></tr><tr><td>Occupation</td><td>
+															Actress
+													</td></tr><tr><td>Claim to Fame</td><td>
+															All of My Children
+													</td></tr><tr><td>Year(s) Active</td><td>
+															1988–present
+													</td></tr><tr><td>Talent Agency (e.g. Modelling)</td><td>
+															Imperium 7
+													</td></tr><tr><td>Brand Endorsement</td><td>
+															TV commercial: breakfast cereal (1994), TV commercial: Tide laundry detergent (1991)
+													</td></tr><tr><td>Bust (inches)</td><td>
+															32
+													</td></tr><tr><td>Cup Size</td><td>
+															C
+													</td></tr><tr><td>Waist (inches)</td><td>
+															24
+													</td></tr><tr><td>Hips (inches)</td><td>
+															30
+													</td></tr><tr><td>Shoe Size</td><td>
+															8.5 (US), 40.5 (EU), 7 (UK), 255 (J)
+													</td></tr><tr><td>Official Websites</td><td>
+															twitter.com/LizVassey, liz-vassey.com/, www.nndb.com/people/785/000345747/
+													</td></tr></table><p class="ff-expandable" style="margin:1rem 0 0;">
+					Elizabeth Leigh Vassey (born August 9, 1972) is an American actress. Her roles include Emily Ann Sago in the television series All My Children, Captain Liberty in the 2001 television series The Tick, Wendy Simms in the television series CSI: Crime Scene Investigation, and Nikki Beaumont in the web series Nikki &amp; Nora.
+				</p></div></div><div class="ff-toggler text-center left" data-ff-scroll="" data-ff-toggle=".ff-person-profile-detail-toggle" style="width:100%;margin-top: 2rem;"><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i "="" class="icon-angle-circled-down"></i></div>
+			More about Liz Vassey
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i "="" class="icon-angle-circled-up"></i></div>
+			Less about Liz Vassey
+		</div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-datingHistory" data-ff-id="topic.datingHistory" data-ff-name="topic.datingHistory" data-ff-trx="eb"><a class="ff-edit" data-ff-gx="Edit" data-ff-gx-click="" href="http://members.whosdatedwho.com#/topic/liz-vassey/relationships"><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history"><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button class="tiny radius secondary ff-active" id="ff-dh-btn-grid" onclick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button class="tiny radius secondary" id="ff-dh-btn-list" onclick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button class="tiny radius secondary" id="ff-dh-btn-table" onclick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,david-emmerichs" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/david-emmerichs">
+				David Emmerichs
+			</a></td><td>
+			Married
+		</td><td style="text-align:center"></td><td>
+						    May 2004
+					</td><td>
+							present
+					</td><td>
+						    			17 years
+    			    			
+    			    			
+					</td><td><a data-ff-gx="View Couple,liz-vassey-and-david-emmerichs" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/liz-vassey-and-david-emmerichs" title="View Couple"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-david-emmerichs"><a data-ff-gx="View Person,david-emmerichs" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/david-emmerichs"><div class="ff-img"><img alt="David Emmerichs" class="" height="198" src="//img5.bdbphotos.com/images/orig/k/o/kosa4i2tkrkq2iks.jpg?skj2io4l" style="width:198px;height:198px;" width="198"/><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><h4 class="ff-title">
+								David Emmerichs
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span aria-haspopup="true" class="has-tip tip-left" data-tooltip="" onclick="contentVote('v114911207271',11491,1,20727,1,'liz-vassey-and-david-emmerichs');return false;" title="I like this"><i class="icon-thumbs-up"></i><v class="v114911207271">4</v></span><span aria-haspopup="true" class="has-tip tip-right" data-tooltip="" onclick="contentVote('v11491120727-1',11491,1,20727,'-1','liz-vassey-and-david-emmerichs');return false;" title="I dislike this"><i class="icon-thumbs-down"></i><v class="v11491120727-1">0</v></span></div></div><h3>2004</h3><div class="ff-bottom"><a data-ff-gx="View Couple,liz-vassey-and-david-emmerichs" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/liz-vassey-and-david-emmerichs" style="clear:both;display:inline-block">
+			
+							Liz Vassey and David Emmerichs have been marr...
+			
+							<span class="ff-more">[view couple]</span></a></div></div><div class="ff-grid-ad-fill"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_Gallery_Filler_300x250 --><ins class="adsbygoogle" data-ad-client="ca-pub-4356445222935173" data-ad-slot="2127160158" style="display:inline-block;width:300px;height:250px"></ins><script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a data-ff-gx="View Person,david-emmerichs" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/david-emmerichs" style="background-image:url('//img5.bdbphotos.com/images/orig/k/o/kosa4i2tkrkq2iks.jpg?skj2io4l')"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a data-ff-gx="View Person,david-emmerichs" data-ff-gx-click="" href="david-emmerichs">David Emmerichs</a></h4><h3>
+						2004
+						<small></small></h3><p data-ff-gx="View Couple,liz-vassey-and-david-emmerichs" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/liz-vassey-and-david-emmerichs">
+												
+						Liz Vassey and David Emmerichs have been married for 17 years.
+		
+					</p><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact">17</div><div class="footer">years</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ff-contents='&lt;iframe src="http://members.whosdatedwho.com/?layout=popover#/topic/liz-vassey-and-david-emmerichs/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources" style="height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;"&gt;&lt;/iframe&gt;' data-ff-modal="" data-ff-size="minimal" data-ffw="popover"><div class="header">Sources</div><div class="fact"><svg class="ff-meter-custom" height="48px" version="1.1" viewbox="0 0 100 100" width="48px" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" fill="none" r="45" stroke="#ccc" stroke-width="10"></circle><text dy=".5rem" style="fill:gray;stroke:none;" text-anchor="middle" x="50%" y="50%">1</text><path d="M 50 5 A 45 45 0 0 1 89 72" fill="none" stroke="gray" stroke-width="10"></path></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-message="&lt;table width='100%'&gt;&lt;tr&gt;&lt;th&gt;Measure&lt;/th&gt;&lt;th&gt;Result&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Zodiac&lt;/td&gt;&lt;td&gt;80%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chinese zodiac&lt;/td&gt;&lt;td&gt;60%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Age&lt;/td&gt;&lt;td&gt;72%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" data-ff-tpl-param-title="Compatibility" data-ffw="popover" href="#"><div class="header">Compatibility</div><div class="fact"><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">53%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:100%;border-bottom:2px solid green;"></div><div style="float:left;width:0%;border-bottom:2px solid red;"></div></div><span aria-haspopup="true" class="has-tip tip-left" data-tooltip="" onclick="contentVote('v114911207271',11491,1,20727,1,'liz-vassey-and-david-emmerichs');return false;" title="I like this"><i class="icon-thumbs-up"></i><v class="v114911207271">4</v></span><span aria-haspopup="true" class="has-tip tip-right" data-tooltip="" onclick="contentVote('v11491120727-1',11491,1,20727,'-1','liz-vassey-and-david-emmerichs');return false;" title="I dislike this"><i class="icon-thumbs-down"></i><v class="v11491120727-1">0</v></span></div><a class="button radius small ff-view-button" data-ff-gx="View Couple,liz-vassey-and-david-emmerichs" data-ff-gx-click="" href="liz-vassey-and-david-emmerichs">view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="GS_1"></div><script async="async" src="//widgets.outbrain.com/outbrain.js" type="text/javascript"></script></div></div></div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-partnerComparison" data-ff-id="topic.partnerComparison" data-ff-name="topic.partnerComparison" data-ff-trx="eb"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header"><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content" id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%">Name</th><th width="12%">Age</th><th width="23%">Zodiac</th><th width="20%">Occupation</th><th width="20%">Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/liz-vassey">Liz Vassey</a></td><td>49</td><td><i class="icon-47"></i>
+
+Leo</td><td>Actress</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"/><br/>American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/david-emmerichs">David Emmerichs</a></td><td>54</td><td><i class="icon-41"></i>
+
+Aquarius</td><td>Cinematographer</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"/><br/>American</td></tr></tbody></table></div></fieldset> <fieldset class="ff-dropitem block-topic-gallery" data-ff-id="topic.gallery" data-ff-name="topic.gallery" data-ff-trx="eb"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header"><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content" id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ff-display-id="gallery-display-20727" data-ff-thumbs-id="gallery-thumbs-20727" data-ff-topic="20727" data-ffw="gallery"><div class="swiper-container ff-swiper-gallery-display" id="gallery-display-20727"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/9/n/9n3oqm2qwfez2mw3.jpg?skj2io4l"/><div class="ff-caption">Liz Vassey- as Monica Evers</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/o/w/ow2wuq5ktkapktpq.jpg?skj2io4l"/><div class="ff-caption">Liz Vassey</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/r/n/rnam0wl3mfwgnrmf.jpg?skj2io4l"/><div class="ff-caption">Liz Vassey as Wendy Simms in CSI: Crime Scene Investigation</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/u/2/u2znt7siddwffwi.jpg?skj2io4l"/><div class="ff-caption">Liz Vassey as Wendy Simms in CSI: Crime Scene Investigation</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/a/y/aytljwekzktjewzt.jpg?skj2io4l"/><div class="ff-caption">Liz Vassey as Wendy Simms in CSI: Crime Scene Investigation</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/o/d/odokw97qxe6z79xo.jpg?skj2io4l"/><div class="ff-caption">Liz Vassey as Wendy Simms in CSI: Crime Scene Investigation</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/t/q/tq0yral6rorwar6q.jpg?skj2io4l"/><div class="ff-caption">Liz Vassey as Wendy Simms in CSI: Crime Scene Investigation</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/x/1/x1svk2ml2zb99bl.jpg?skj2io4l"/><div class="ff-caption">Liz Vassey as Wendy Simms in CSI: Crime Scene Investigation</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/2/5/25o56taswjhto56h.jpg?skj2io4l"/><div class="ff-caption">Liz Vassey as Wendy Simms in CSI: Crime Scene Investigation</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/3/6/36imy0m5h6aii6ya.jpg?skj2io4l"/><div class="ff-caption">Liz Vassey as  Wendy Simms in CSI: Crime Scene Investigation S09E20</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/c/z/czimuetc0gpjzcmg.jpg?skj2io4l"/><div class="ff-caption">Liz Vassey as  Wendy Simms in CSI: Crime Scene Investigation S09E20</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/k/c/kc2pa0fy0n172ca1.jpg?skj2io4l"/><div class="ff-caption">Liz Vassey as  Wendy Simms in CSI: Crime Scene Investigation S09E20</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div class="swiper-container ff-swiper-gallery-thumbs" id="gallery-thumbs-20727"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/9/n/9n3oqm2qwfez2mw3.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/o/w/ow2wuq5ktkapktpq.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/r/n/rnam0wl3mfwgnrmf.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/u/2/u2znt7siddwffwi.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/a/y/aytljwekzktjewzt.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/o/d/odokw97qxe6z79xo.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/t/q/tq0yral6rorwar6q.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/x/1/x1svk2ml2zb99bl.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/2/5/25o56taswjhto56h.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/3/6/36imy0m5h6aii6ya.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/c/z/czimuetc0gpjzcmg.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/k/c/kc2pa0fy0n172ca1.jpg?skj2io4l)"></div></div></div></div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-filmography" data-ff-id="topic.filmography" data-ff-name="topic.filmography" data-ff-trx="eb"><div id="section-filmography" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header"><h2>
+										Filmography 
+									
+								</h2></div><div class="ff-block-content" id="ff-filmography"><table class="ff-table" width="100%"><thead><tr><th width="40%">Film</th><th width="10%">Year</th><th width="30%">Character</th><th width="20%">Type</th></tr></thead><tbody><tr><td>Riley Parra: Better Angels</td><td>2019</td><td>Gillian Hunt</td><td>Movie</td></tr><tr><td>The Tick</td><td>2017</td><td>Lobstercules</td><td>TV Show</td></tr><tr><td>Riley Parra</td><td>2017</td><td>Dr. Gillian Hunt, Gillian Hunt</td><td>TV Show</td></tr><tr><td>Nikki &amp; Nora: The N&amp;N Files</td><td>2013</td><td>Nikki Beaumont</td><td>TV Show</td></tr><tr><td>Sexting in Suburbia</td><td>2012</td><td>Rachel Van Cleve</td><td>TV Movie</td></tr><tr><td>Last Hours in Suburbia</td><td>2012</td><td>Ann</td><td>Movie</td></tr><tr><td>Necessary Roughness</td><td>2011</td><td>Gabrielle Pittman</td><td>TV Show</td></tr><tr><td>9ine</td><td>2011</td><td>Andrea Valente</td><td>TV Show</td></tr><tr><td>Castle</td><td>2009</td><td>Monica Wyatt</td><td>TV Show</td></tr><tr><td>Dr. Horrible's Sing-Along Blog</td><td>2008</td><td>Fury Leika</td><td>TV Show</td></tr></tbody><tbody class="ff-filmography-table-toggle hide"><tr><td>3Way</td><td>2008</td><td>Mikki Majors</td><td>TV Show</td></tr><tr><td>The Cure</td><td>2007</td><td></td><td>TV Movie</td></tr><tr><td>Man of the House</td><td>2005</td><td>Maggie Swanson</td><td>Movie</td></tr><tr><td>Cooked</td><td>2005</td><td>Dakota</td><td>TV Movie</td></tr><tr><td>20 Things to Do Before You're 30</td><td>2005</td><td></td><td>TV Movie</td></tr><tr><td>Nikki and Nora</td><td>2004</td><td>Nikki Beaumont</td><td>TV Movie</td></tr><tr><td>Tru Calling</td><td>2003</td><td>Dr. Carrie Allen</td><td>TV Show</td></tr><tr><td>Two and a Half Men</td><td>2003</td><td>Kate, Michelle</td><td>TV Show</td></tr><tr><td>Veritas: The Quest</td><td>2003</td><td>Bella Nicholson</td><td>TV Show</td></tr><tr><td>The Partners</td><td>2003</td><td>Christine Ryder</td><td>TV Movie</td></tr><tr><td>Dragans of New York</td><td>2002</td><td></td><td>TV Movie</td></tr><tr><td>Push, Nevada</td><td>2002</td><td>Dawn, Dawn F. Mitchell, Dawn Mitchell</td><td>TV Show</td></tr><tr><td>Pursuit of Happiness</td><td>2001</td><td>Renee</td><td>Movie</td></tr><tr><td>The Tick</td><td>2001</td><td>Captain Liberty</td><td>TV Show</td></tr><tr><td>Life with David J</td><td>2001</td><td></td><td>TV Movie</td></tr><tr><td>CSI: Crime Scene Investigation</td><td>2000</td><td>Wendy Simms</td><td>TV Show</td></tr><tr><td>9mm of Love</td><td>2000</td><td>Julia</td><td>Short Film</td></tr><tr><td>Dawson's Creek</td><td>1998</td><td>Wendy Dalrymple</td><td>TV Show</td></tr><tr><td>Fantasy Island</td><td>1998</td><td>Brenda</td><td>TV Show</td></tr><tr><td>Maximum Bob</td><td>1998</td><td>Kathy Baker</td><td>TV Show</td></tr><tr><td>Dharma &amp; Greg</td><td>1997</td><td>Kim</td><td>TV Show</td></tr><tr><td>Early Edition</td><td>1996</td><td>Mona the Waitress</td><td>TV Show</td></tr><tr><td>The Adventures of Captain Zoom in Outer Space</td><td>1995</td><td>Princess Tyra, Pangea's Leader</td><td>TV Movie</td></tr><tr><td>Brotherly Love</td><td>1995</td><td>Louise Davis</td><td>TV Show</td></tr><tr><td>Pig Sty</td><td>1995</td><td>Tess Galaway</td><td>TV Show</td></tr><tr><td>Saved by the Bell: Wedding in Las Vegas</td><td>1994</td><td>Carla</td><td>TV Movie</td></tr><tr><td>ER</td><td>1994</td><td>Liz</td><td>TV Show</td></tr><tr><td>Calendar Girl</td><td>1993</td><td>Sylvia</td><td>Movie</td></tr><tr><td>Love, Lies &amp; Lullabies</td><td>1993</td><td>Chloe</td><td>TV Movie</td></tr><tr><td>The Secrets of Lake Success</td><td>1993</td><td>Suzy Atkins</td><td>TV Show</td></tr><tr><td>Danger Theatre</td><td>1993</td><td>Lexie</td><td>TV Show</td></tr><tr><td>Diagnosis Murder</td><td>1993</td><td>Ilene Bennett</td><td>TV Show</td></tr><tr><td>Bodies of Evidence</td><td>1992</td><td>Jane Rice</td><td>TV Show</td></tr><tr><td>Love &amp; War</td><td>1992</td><td>Stephanie</td><td>TV Show</td></tr><tr><td>Grapevine</td><td>1992</td><td>Janice</td><td>TV Show</td></tr><tr><td>Herman's Head</td><td>1991</td><td>Rebecca Woods</td><td>TV Show</td></tr><tr><td>Home Improvement</td><td>1991</td><td>Donna</td><td>TV Show</td></tr><tr><td>Walter &amp; Emily</td><td>1991</td><td></td><td>TV Show</td></tr><tr><td>Beverly Hills, 90210</td><td>1990</td><td>Marcie St. Claire</td><td>TV Show</td></tr><tr><td>Dream On</td><td>1990</td><td>Christine Copeland</td><td>TV Show</td></tr><tr><td>Parker Lewis Can't Lose</td><td>1990</td><td>Mary</td><td>TV Show</td></tr><tr><td>Wings</td><td>1990</td><td>Courtney</td><td>TV Show</td></tr><tr><td>Quantum Leap</td><td>1989</td><td>Barbara Whitmore, Paula Fletcher</td><td>TV Show</td></tr><tr><td>Murphy Brown</td><td>1988</td><td>Amy Madrid</td><td>TV Show</td></tr><tr><td>Superboy</td><td>1988</td><td>Student</td><td>TV Show</td></tr><tr><td>Jake and the Fatman</td><td>1987</td><td>Dina Rowen</td><td>TV Show</td></tr><tr><td>Married... with Children</td><td>1987</td><td>Lorraine</td><td>TV Show</td></tr><tr><td>Star Trek: The Next Generation</td><td>1987</td><td>Kristin</td><td>TV Show</td></tr><tr><td>Murder, She Wrote</td><td>1984</td><td>Candace Bennett, Monica Evers</td><td>TV Show</td></tr><tr><td>The New Leave It to Beaver</td><td>1983</td><td>Candy</td><td>TV Show</td></tr><tr><td>All My Children</td><td>1970</td><td>Emily Ann Sago Martin</td><td>TV Show</td></tr></tbody></table><div class="ff-toggler text-center left" data-ff-scroll="" data-ff-toggle=".ff-filmography-table-toggle" style="width:100%;margin-top: 2rem;"><div class="ff-filmography-table-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i "="" class="icon-angle-circled-down"></i></div>
+			Show More
+		</div><div class="ff-filmography-table-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i "="" class="icon-angle-circled-up"></i></div>
+			Show Less
+		</div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-onscreenMatchupsGrid" data-ff-id="topic.onscreenMatchupsGrid" data-ff-name="topic.onscreenMatchupsGrid" data-ff-trx="eb"><div id="section-onscreen-matchups" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header onscreen"><h2>
+										Onscreen Matchups 
+									
+								</h2></div><div class="ff-block-content onscreen" id="ff-onscreen-matchups"><div class="ff-box-grid ff-onscreen" style="margin:0;"><ul><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/liz-vassey-and-charlie-sheen"><img alt="Liz Vassey and Charlie Sheen" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/d/a/darn9c0w8xf3wrx9.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/d/a/darn9c0w8xf3xd0n.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/charlie-sheen">Charlie Sheen</a><a href="https://www.whosdatedwho.com/dating/liz-vassey-and-charlie-sheen"><ul><li>
+							Two and a Half Men<br/>
+							2003
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/liz-vassey-and-christina-cox"><img alt="Liz Vassey and Christina Cox" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/4/w/4wwachve3wrv3r.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/4/w/4wwachve3wrvvw.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/christina-cox">Christina Cox</a><a href="https://www.whosdatedwho.com/dating/liz-vassey-and-christina-cox"><ul><li>
+							Nikki &amp; Nora: The N&amp;N Files<br/>
+							2013
+						</li></ul><span class="ff-bottom">[+1 more]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/liz-vassey-and-david-emmerichs"><img alt="Liz Vassey and David Emmerichs" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/o/l/olub80jznqd00jn.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/o/l/olub80jznqd08dz.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/david-emmerichs">David Emmerichs</a><a href="https://www.whosdatedwho.com/dating/liz-vassey-and-david-emmerichs"><ul><li>
+							Two and a Half Men<br/>
+							2003
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/liz-vassey-and-matthew-flint"><div class="ff-placeholder sz-medium-square"><i class="icon-photos" style="font-size:60px;line-height:60px;overflow:hidden"></i></div></a><a href="https://www.whosdatedwho.com/dating/matthew-flint">Matthew Flint</a><a href="https://www.whosdatedwho.com/dating/liz-vassey-and-matthew-flint"><ul><li>
+							Murder, She Wrote<br/>
+							1984
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/liz-vassey-and-matthew-sheehan"><div class="ff-placeholder sz-medium-square"><i class="icon-photos" style="font-size:60px;line-height:60px;overflow:hidden"></i></div></a><a href="https://www.whosdatedwho.com/dating/matthew-sheehan">Matthew Sheehan</a><a href="https://www.whosdatedwho.com/dating/liz-vassey-and-matthew-sheehan"><ul><li>
+							Quantum Leap<br/>
+							1989
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/liz-vassey-and-michael-easton"><img alt="Liz Vassey and Michael Easton" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/8/v/8vchc0jzcb2tc2.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/8/v/8vchc0jzcb2tjb.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/michael-easton">Michael Easton</a><a href="https://www.whosdatedwho.com/dating/liz-vassey-and-michael-easton"><ul><li>
+							Diagnosis Murder<br/>
+							1993
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/liz-vassey-and-wallace-langham"><img alt="Liz Vassey and Wallace Langham" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/f/a/fazuzgbfy6p8yupg.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/f/a/fazuzgbfy6p8pafz.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/wallace-langham">Wallace Langham</a><a href="https://www.whosdatedwho.com/dating/liz-vassey-and-wallace-langham"><ul><li>
+							CSI: Crime Scene Investigation<br/>
+							2000
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/mario-lopez-and-liz-vassey"><img alt="Mario Lopez and Liz Vassey" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/t/3/t37gce4yv9tey9.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/t/3/t37gce4yv9teeev.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/mario-lopez">Mario Lopez</a><a href="https://www.whosdatedwho.com/dating/mario-lopez-and-liz-vassey"><ul><li>
+							Saved by the Bell: Wedding in Las Vegas<br/>
+							1994
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><div class="ff-onscreen-toggle hide"><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/mark-decarlo-and-liz-vassey"><div class="ff-placeholder sz-medium-square"><i class="icon-photos" style="font-size:60px;line-height:60px;overflow:hidden"></i></div></a><a href="https://www.whosdatedwho.com/dating/mark-decarlo">Mark DeCarlo</a><a href="https://www.whosdatedwho.com/dating/mark-decarlo-and-liz-vassey"><ul><li>
+							Saved by the Bell: Wedding in Las Vegas<br/>
+							1994
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li></div></ul></div><div class="text-center left" data-ff-scroll="" data-ff-toggle=".ff-onscreen-toggle" style="width:100%;margin-top: 2rem;"><div class="ff-onscreen-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down" style="background-color:#f3f3f3;"></i></div>
+		More Liz Vassey Onscreen Matchups
+	</div><div class="ff-onscreen-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up" style="background-color:#f3f3f3;"></i></div>
+		Less Liz Vassey Onscreen Matchups
+	</div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-comments" data-ff-id="topic.comments" data-ff-name="topic.comments" data-ff-trx="eb"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header"><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content" id="ff-discussions"><div class="ff-panel"><h3>Posted comments<small><a href="https://www.famousfix.com/topic/liz-vassey/forum" title="Liz Vassey discussion board">View all comments (4)</a></small></h3><div class="ff-comment-item" data-ff-eid="0" data-ff-id="21527716" data-ff-tid="6" data-ff-title="you are a very and talented beautiful actress. god bless you" data-ff-url="" data-ffw="content"><span class="ff-user"><span class="ff-img" data-ff-image=""></span><span data-ff-webname="">richard thomas</span></span><span class="ff-bullet"></span><span class="ff-comment-time" data-ff-time="2012-12-28 21:20:19">Dec 28, 2012</span><p class="ff-comment" data-ff-auto-image="" data-ff-text="">you are a very and talented beautiful actress. god bless you</p></div><div class="ff-comment-item" data-ff-eid="33960821" data-ff-id="10688632" data-ff-tid="6" data-ff-title="She is just wonderfull - a big pleasure to watch her every week in CSI Las Vegas" data-ff-url="" data-ffw="content"><a class="ff-user" href="http://members.famousfix.com/member/snekker"><span class="ff-img" data-ff-image=""></span><span data-ff-webname="">snekker</span></a><span class="ff-bullet"></span><span class="ff-comment-time" data-ff-time="2008-03-25 18:10:49">Mar 25, 2008</span><p class="ff-comment" data-ff-auto-image="" data-ff-text="">She is just wonderfull - a big pleasure to watch her every week in CSI Las Vegas</p></div><hr/><a href="https://www.famousfix.com/topic/liz-vassey/forum" style="margin-top:-1rem;float:right;" title="Liz Vassey discussion board">Join the FamousFix discussion board &gt;&gt;</a></div></div></fieldset> </div>
+<div class="ff-cont-side ff-droplist" data-ff-layout-block="" data-ff-name="side" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" data-ffw="affix"> <fieldset class="ff-dropitem block-global-adDFP_RightTop" data-ff-id="global.adDFP_RightTop" data-ff-name="global.adDFP_RightTop" data-ff-trx="eb"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div style="min-height:250px;"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250,300x600";
+    e9.noAd = 1;
+//--></script><script src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js" type="text/javascript"></script></div></div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-id="topic.relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid" data-ff-trx="eb"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header"><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content" id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/jennifer-taylor"><img alt="Jennifer Taylor" class="" height="93" src="//img3.bdbphotos.com/images/130x130/g/k/gkjtlkyzxj6aajxk.jpg?skj2io4l" style="width:93px;height:93px;" width="93"><div class="ff-name">Jennifer Taylor</div><div class="ff-rank"></div></img></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/jodi-lyn-o-keefe"><img alt="Jodi Lyn O'Keefe" class="" height="93" src="//img3.bdbphotos.com/images/130x130/l/v/lv2pduriti9jpir.jpg?skj2io4l" style="width:93px;height:93px;" width="93"><div class="ff-name">Jodi Lyn O'Keefe</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1,286</span></span><span class="ff-rank-change"><span>+150</span></span></div></img></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/emmanuelle-vaugier"><img alt="Emmanuelle Vaugier" class="" height="93" src="//img3.bdbphotos.com/images/130x130/a/k/ak5ri0bl9j1x1kli.jpg?skj2io4l" style="width:93px;height:93px;" width="93"><div class="ff-name">Emmanuelle Vaugier</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>3,306</span></span><span class="ff-rank-change"><span>+315</span></span></div></img></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/jorja-fox"><img alt="Jorja Fox" class="" height="93" src="//img3.bdbphotos.com/images/130x130/h/p/hpdiat074c5nnd4t.jpg?skj2io4l" style="width:93px;height:93px;" width="93"><div class="ff-name">Jorja Fox</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>558</span></span><span class="ff-rank-change"><span>+282</span></span></div></img></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/jenny-mccarthy"><img alt="Jenny McCarthy" class="" height="93" src="//img3.bdbphotos.com/images/130x130/a/1/a1y2cwva89dy8ywy.jpg?skj2io4l" style="width:93px;height:93px;" width="93"><div class="ff-name">Jenny McCarthy</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>275</span></span><span class="ff-rank-change"><span>+581</span></span></div></img></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/selena-gomez"><img alt="Selena Gomez" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/2/k/2kh91ejg7xhngx.jpg?skj2io4l" height="93" src="//img3.bdbphotos.com/images/130x130/2/k/2kh91ejg7xhnen7.jpg?skj2io4l" style="width:93px;height:93px;" width="93"><div class="ff-name">Selena Gomez</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1</span></span><span class="ff-rank-change"><span>0</span></span></div></img></a></li></ul></div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-relatedLists" data-ff-id="topic.relatedLists" data-ff-name="topic.relatedLists" data-ff-trx="eb"><div class="ff-block-content related-searches" id="ff-a0c4073f96b18f599c1f0fc16b8b9885"><div class="ff-panel"><h2>Related Lists</h2><div class="ff-box-grid ff-full-width ff-lists" style="margin:0;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="https://www.whosdatedwho.com/lists/american-film-actors" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img alt="American film actors" class="" height="50" src="//img4.bdbphotos.com/images/50x50/x/8/x8a78izss80f88zx.jpg?skj2io4l" style="width:50px;height:50px;" width="50"/></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American film actors
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="https://www.whosdatedwho.com/lists/american-television-actors" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img alt="American television actors" class="" height="50" src="//img4.bdbphotos.com/images/50x50/i/l/ilpqhgg9hzd4hgdh.jpg?skj2io4l" style="width:50px;height:50px;" width="50"/></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American television actors
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="https://www.whosdatedwho.com/lists/1972-births" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img alt="1972 births" class="" height="50" src="//img4.bdbphotos.com/images/50x50/4/t/4tib9whvybh5hbyi.jpg?skj2io4l" style="width:50px;height:50px;" width="50"/></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						1972 births
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="https://www.whosdatedwho.com/lists/american-soap-opera-actors" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img alt="American soap opera actors" class="" height="50" src="//img4.bdbphotos.com/images/50x50/k/c/kcs7g7d7tpnmpdm7.jpg?skj2io4l" style="width:50px;height:50px;" width="50"/></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American soap opera actors
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="https://www.whosdatedwho.com/lists/actors-from-north-carolina" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img alt="Actors from North Carolina" class="" height="50" src="//img4.bdbphotos.com/images/50x50/i/w/iwhj6ecr08abarc.jpg?skj2io4l" style="width:50px;height:50px;" width="50"/></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Actors from North Carolina
+					
+				</a></li></ul></div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-contribute" data-ff-id="topic.contribute" data-ff-name="topic.contribute" data-ff-trx="eb"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute"><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for Liz Vassey</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="http://members.whosdatedwho.com#/member/Snackman" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><div class="ff-placeholder sz-xsmall-square" style="width:24px;height:24px;"><i class="icon-photos" style="font-size:18px;line-height:18px;overflow:hidden"></i></div></div><div style="float:right">
+					160
+				</div>
+					Snackman
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="http://members.whosdatedwho.com#/member/Tracker748" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img alt="Tracker748" class="" height="24" src="//img4.bdbphotos.com/images/50x50/8/c/8ca2re7ut9ouutu.jpg?skj2io4l" style="width:24px;height:24px;" width="24"/></div><div style="float:right">
+					110
+				</div>
+					Tracker748
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="http://members.whosdatedwho.com#/member/notnef" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img alt="notnef" class="" height="24" src="//img4.bdbphotos.com/images/50x50/s/v/svd70mczki8bmdzv.jpg?skj2io4l" style="width:24px;height:24px;" width="24"/></div><div style="float:right">
+					52
+				</div>
+					notnef
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="http://members.whosdatedwho.com#/member/silber" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img alt="silber" class="" height="24" src="//img4.bdbphotos.com/images/50x50/v/d/vdosoj5ylfnjojon.jpg?skj2io4l" style="width:24px;height:24px;" width="24"/></div><div style="float:right">
+					20
+				</div>
+					silber
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="http://members.whosdatedwho.com#/member/Pgenter" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img alt="Pgenter" class="" height="24" src="//img4.bdbphotos.com/images/50x50/6/o/6o2hrlxxhnjknxkl.jpg?skj2io4l" style="width:24px;height:24px;" width="24"/></div><div style="float:right">
+					19
+				</div>
+					Pgenter
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep Liz Vassey profile up to date.</p><div data-ff-action="login" data-ff-social="" data-ffw="user"><a class="button radius primary small">Login</a></div></div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-sixDegrees" data-ff-id="topic.sixDegrees" data-ff-name="topic.sixDegrees" data-ff-trx="eb"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees"><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with Liz Vassey to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ff-hide-views="" data-ff-name="topic1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-tids="1" data-ff-value="20727:liz-vassey" data-ffw="auto"></div></div><div class="left" style="width:5%"><span class="prefix">&amp;</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ff-hide-views="" data-ff-name="topic2" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-tids="1" data-ffw="auto"></div></div><div class="left ff-sd-btn" style="width:7.5%"><input class="button primary postfix" style="padding:0;" type="submit" value="Go"/></div><div></div></div></form><h5>Recent connections involving Liz Vassey</h5><ul style="list-style:none;margin:.5rem;"></ul></div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-famousFixDesktop" data-ff-id="topic.famousFixDesktop" data-ff-name="topic.famousFixDesktop" data-ff-trx="eb"><div class="ff-block-content" id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More Liz Vassey</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/liz-vassey"><img alt="Liz Vassey- as Monica Evers" class="" height="130" src="//img3.bdbphotos.com/images/130x130/9/n/9n3oqm2qwfezenqq.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/liz-vassey"><img alt="Liz Vassey" class="" height="130" src="//img3.bdbphotos.com/images/130x130/o/w/ow2wuq5ktkapuak.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a></div><a class="right" href="https://www.famousfix.com/topic/liz-vassey" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																												photos, 
+																																							film, 
+																									videos
+													and more from FamousFix.com
+			</a></div></div></fieldset> <fieldset class="ff-dropitem block-global-adDFP_RightBottom" data-ff-id="global.adDFP_RightBottom" data-ff-name="global.adDFP_RightBottom" data-ff-trx="eb"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_right_bottom_new --><ins class="adsbygoogle" data-ad-client="ca-pub-4356445222935173" data-ad-format="auto" data-ad-slot="5368144426" data-full-width-responsive="true" style="display:block"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></fieldset> </div>
+</div>
+<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+<a href="https://www.facebook.com/Whos-Dated-Who-161093650579384/" target="_blank">
+<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+</div>
+</div>
+<div id="ff-footer">
+<div class="row collapse">
+<div>
+<div class="ff-rtime">0.166</div>
+<div class="small-3 columns text-left">
+<h3><a href="/">whosdatedwho.com</a></h3>
+</div>
+<div class="small-9 columns text-right">
+<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+</div>
+</div>
+</div>
+<div class="row center">
+<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+</div>
+</div>
+</div>
+<div aria-hidden="true" aria-labelledby="ff-zdialog-title" class="reveal-modal" data-reveal="" id="ff-zdialog" role="dialog"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+<script crossorigin="anonymous" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&amp;_c=A|2&amp;t=1583745205" type="text/javascript"></script>
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+<script crossorigin="anonymous" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&amp;_c=A|2&amp;t=1583745205" type="text/javascript"></script>
+<script>
+</script>
+<script>	
+__trx.agent([1,20727,2,1,"","",3,"%2Fdating%2Fliz-vassey","",0]);
+</script>
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-903bQOpJXvFzg"
+	});
+	</script>
+<noscript>
+<div style="display:none;">
+<img alt="Quantcast" border="0" height="1" src="//pixel.quantserve.com/pixel/p-903bQOpJXvFzg.gif" width="1"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<form><input class="data-ff-sss" type="hidden"/></form>
+</body>
+</html>

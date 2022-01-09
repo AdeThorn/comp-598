@@ -1,0 +1,711 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+<head>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/><title>Who is Timothée Chalamet dating? Timothée Chalamet girlfriend, wife</title><meta charset="utf-8"><link href="https://www.whosdatedwho.com/dating/timothee-chalamet" rel="canonical"/><link href="https://m.whosdatedwho.com/dating/timothee-chalamet" media="only screen and (max-width: 640px)" rel="alternate"/><meta content="Who is Timothée Chalamet dating? Timothée Chalamet girlfriend, wife" name="title"/><meta content="4 November 2021... Timothée Chalamet news, gossip, photos of Timothée Chalamet, biography, Timothée Chalamet girlfriend list 2016. Relationship history. Timothée Chalamet relationship list. Timothée Chalamet dating history, 2021, 2020, list of Timothée Chalamet relationships." name="description"/><meta content="" name="keywords"/><link href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" rel="shortcut icon"/><meta content="https://www.whosdatedwho.com/dating/timothee-chalamet" property="og:url"/><meta content="Who's Dated Who?" property="og:site_name"/><meta content="589859177821389" property="fb:app_id"/><meta content="Timothée Chalamet" property="og:title"/><meta content="profile" property="og:type"/><meta content="//img6.bdbphotos.com/images/orig/t/3/t336ar7ltfm3a67t.jpg?skj2io4l" property="og:image"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"/><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"/><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"/><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet"/>
+<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&amp;_c=A|2&amp;t=1583745205" rel="stylesheet"/>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/timothee-chalamet",
+  "name": "Timothée Chalamet",
+"jobTitle": "Actor",  "url": "https://www.whosdatedwho.com/dating/timothee-chalamet",
+"birthDate": "1995-12-26",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 3,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Person",
+        "name": "Eiza González",
+        "url": "https://www.whosdatedwho.com/dating/timothee-chalamet#dating-eiza-gonzalez",
+		        "image": "//img2.bdbphotos.com/images/orig/e/9/e92itu6ewio6oi6.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Person",
+        "name": "Lily-Rose Melody Depp",
+        "url": "https://www.whosdatedwho.com/dating/timothee-chalamet#dating-lily-rose-melody-depp",
+		        "image": "//img5.bdbphotos.com/images/orig/f/8/f84zzss80dwjd0js.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "Lourdes Leon",
+        "url": "https://www.whosdatedwho.com/dating/timothee-chalamet#dating-lourdes-leon",
+		        "image": "//img1.bdbphotos.com/images/orig/z/t/ztc8h9ywgelbh8yz.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>
+<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+<script crossorigin="anonymous" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+</meta></head>
+<body data-ff-eid="" data-ff-gx="Type,Person" data-ff-gx-view="" data-ff-id="3859888" data-ff-tid="1" data-ff-title="Timothée Chalamet" data-ff-url="timothee-chalamet" data-ffw="content" id="ff-page-person">
+<div data-ff-page="3859888" data-ff-user="e2a096dc917940636bfcdd6a6e3ceb5f"></div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4356445222935173",
+    enable_page_level_ads: true
+  });
+</script>
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+<div class="ff-page" data-ff-layout="ad-var">
+<div id="ff-header">
+<div class="row collapse">
+<div class="small-1 columns">
+<a href="/" id="ff-header-logo-desktop"><img alt="WDW" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png" style="width:47px;height:40px;"/></a>
+</div>
+<div class="small-7 columns">
+<form action="/search" class="ff-site-search" id="ff-top-search" method="get">
+<div data-ff-hide-views="" data-ff-limit="4" data-ff-oids="20,21" data-ff-placeholder="Search or browse celebrities" data-ff-query="" data-ff-size-medium="" data-ff-submit="" data-ff-tids="1" data-ff-topsearch-input="" data-ff-url-redirect="" data-ffw="auto">
+<div class="ff-auto"><textarea class="inputor" name="q" rows="1"></textarea></div>
+</div>
+<button class="ff-pointer icon-search" type="submit"></button>
+</form>
+</div>
+<div class="small-4 columns">
+<ul class="off-canvas-list" style="padding-left:0;">
+<li><a class="icon-star" href="/popular" title="Browse Popular"><small>popular</small></a></li>
+<li><a class="icon-chart-line" href="/trending" title="Browse Trending"><small>trending</small></a></li>
+<li><a class="icon-lists" href="/lists" title="Browse Lists"><small>lists</small></a></li>
+<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+<li data-ff-action="login" data-ff-social="" data-ff-success-url="http://members.whosdatedwho.com#/topic/timothee-chalamet" data-ffw="user">
+<a href="#" style="font-size:25px;margin:0;width:4rem;"><i class="icon-user" style="font-size:24px;padding-top: 0;color:#ddd;"></i><small>login</small></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="ff-cont-full ff-droplist" data-ff-layout-block="" data-ff-name="full" style="margin:0 auto;"> <fieldset class="ff-dropitem block-global-adDFP_Navigation" data-ff-id="global.adDFP_Navigation" data-ff-name="global.adDFP_Navigation" data-ff-trx="eb"><div style="margin-top:20px; margin-bottom:20px; min-height:90px;"><div class="ff-advert ff-advert-970x250"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,970x250";
+    e9.noAd = 1;
+//--></script><script src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js" type="text/javascript"></script></div></div></div></div></fieldset> </div>
+<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+<div class="ff-cont-main ff-droplist" data-ff-id="ff-main-content-area" data-ff-layout-block="" data-ff-name="main"> <fieldset class="ff-dropitem block-topic-datingProfile" data-ff-id="topic.datingProfile" data-ff-name="topic.datingProfile" data-ff-trx="eb"><div id="section-timothee-chalamet" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile"><h2>
+										Timothée Chalamet 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-timothee-chalamet"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="margin:0 auto;max-width:700px;max-height:350px;"><div class="ff-banner ff-small" style="max-width:700px;padding-bottom:50%;"><img alt="Timothée Chalamet" class="" height="350" src="//img4.bdbphotos.com/images/700x350/t/3/t336ar7ltfm37tf3.jpg?skj2io4l" style="width:700px;height:350px;" width="700"/></div></div><h1 class="ff-name text-left ff-banner-gradient">
+		
+		Timothée Chalamet  <span class="ff-smaller">American Actor</span></h1><div class="ff-thumbs"><span aria-haspopup="true" class="has-tip tip-left" data-tooltip="" onclick="contentVote('v3859888101',3859888,1,0,1,'timothee-chalamet');return false;" title="I like this"><i class="icon-thumbs-up"></i><v class="v3859888101">152</v></span><span aria-haspopup="true" class="has-tip tip-right" data-tooltip="" onclick="contentVote('v385988810-1',3859888,1,0,'-1','timothee-chalamet');return false;" title="I dislike this"><i class="icon-thumbs-down"></i><v class="v385988810-1">18</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a class="ff-edit" data-ff-gx="Edit" data-ff-gx-click="" href="http://members.whosdatedwho.com#/topic/timothee-chalamet/about"><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small rank"><div class="header">Rank</div><div class="fact">2</div><div class="footer"><span class="ff-rank-change"><i class="icon-chart-line"></i><span>2</span></span></div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small age"><div class="header">Age</div><div class="fact">25</div><div class="footer">years old</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small zodiac"><div class="header">Zodiac</div><div class="fact"><a href="/lists/celebrities-with-star-sign-capricorn"><i class="icon-capricorn"></i></a></div><div class="footer">Capricorn</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact">3</div><div class="footer">total</div></a></div></div></div><div class="ff-advert ff-advert-float"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_article_top_new --><ins class="adsbygoogle" data-ad-client="ca-pub-4356445222935173" data-ad-slot="5751287805" style="display:inline-block;width:300px;height:250px"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><h4 class="ff-auto-status">
+			Who
+			is he
+			dating right now?
+		</h4><p class="ff-auto-status">
+    			    				According to our records, <topic url="timothee-chalamet">Timothée Chalamet</topic> is possibly single.
+    			    		</p><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="timothee-chalamet">Timothée Chalamet</topic> has been in relationships with <a href="/dating/eiza-gonzalez">Eiza González</a><span> (2020)</span>, <a href="/dating/lily-rose-melody-depp">Lily-Rose Melody Depp</a><span> (2018 - 2020)</span> and <a href="/dating/lourdes-leon">Lourdes Leon</a><span> (2013 - 2014)</span>.</p><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="timothee-chalamet">Timothée Chalamet</topic> is a 25 year old American Actor. Born Timothée Hal Chalamet on 26th December, 1995 in New York City, New York, USA, he is famous for Call Me by Your Name; Ladybird; Dune in a career that spans 2007–present. His zodiac sign is Capricorn.</p><div class="ff-person-profile-detail-toggle hide"><p class="ff-auto-about"><topic url="timothee-chalamet">Timothée Chalamet</topic> has been in 12 on-screen matchups, including <a href="/dating/florence-pugh">Florence Pugh</a> in <i>Little Women</i><span> (2019)</span>, <a href="/dating/lily-rose-melody-depp">Lily-Rose Melody Depp</a> in <i>The King</i><span> (2019)</span>, <a href="/dating/saoirse-ronan">Saoirse Ronan</a> in <i>Little Women</i><span> (2019)</span>, <a href="/dating/armie-hammer">Armie Hammer</a> in <i>Call Me by Your Name</i><span> (2017)</span> and <a href="/dating/elle-fanning">Elle Fanning</a> in <i>A Rainy Day in New York</i><span> (2020)</span>.</p><p class="ff-auto-about"><topic url="timothee-chalamet">Timothée Chalamet</topic> is a member of the following lists: <a href="/lists/new-york-university-alumni">New York University alumni</a>, <a href="/lists/columbia-university-alumni">Columbia University alumni</a> and <a href="/lists/people-from-the-bronx">People from the Bronx</a>.</p><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Help us build our profile of Timothée Chalamet! 
+		<a data-ff-action="login" data-ff-socialx="" data-ff-success-url="http://members.whosdatedwho.com#/topic/timothee-chalamet" data-ffw="user">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Dating</th><td>3</td><td><span aria-haspopup="true" class="has-tip" data-tooltip="" title="Lily-Rose Melody Depp and Timothée Chalamet">
+								2 years, 3 months
+							</span></td><td>
+													1 year, 2 months
+											</td><td><span aria-haspopup="true" class="has-tip" data-tooltip="" title="Eiza González and Timothée Chalamet">
+								4 months, 2 days
+							</span></td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">3</td><td style="font-style:oblique"><span aria-haspopup="true" class="has-tip" data-tooltip="" title="Lily-Rose Melody Depp and Timothée Chalamet">
+								2 years, 3 months
+						</span></td><td style="font-style:oblique">
+											1 year, 2 months
+									</td><td style="font-style:oblique"><span aria-haspopup="true" class="has-tip" data-tooltip="" title="Eiza González and Timothée Chalamet">
+							4 months, 2 days
+						</span></td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"/><col width="60%"/><tr><td>First Name</td><td>
+															Timothee
+													</td></tr><tr><td>Middle Name</td><td>
+															Hal
+													</td></tr><tr><td>Last Name</td><td>
+															Chalamet
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															Timothée Hal Chalamet
+													</td></tr><tr><td>Alternative Name</td><td>
+															Timothy Chalamet, Timothee Chalamet, Timothée Hal Chalamet
+													</td></tr><tr><td>Age</td><td>
+															25 years
+													</td></tr><tr><td>Birthday</td><td>
+															26th December, 1995
+													</td></tr><tr><td>Birthplace</td><td>
+															New York City, New York, USA
+													</td></tr><tr><td>Height</td><td>
+															5' 11½" (182 cm)
+													</td></tr><tr><td>Build</td><td>
+															Slim
+													</td></tr><tr><td>Eye Color</td><td>
+															Green
+													</td></tr><tr><td>Hair Color</td><td>
+															Brown - Dark
+													</td></tr><tr><td>Distinctive Feature</td><td>
+															Black hair, pale skin, swagger
+													</td></tr><tr><td>Zodiac Sign</td><td>
+															Capricorn
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Religion</td><td>
+															Jewish
+													</td></tr><tr><td>Ethnicity</td><td>
+															White
+													</td></tr><tr><td>Nationality</td><td>
+															American
+													</td></tr><tr><td>High School</td><td>
+															Fiorello H. LaGuardia High School of Music &amp; Art and Performing Arts, New York City, NY (-2013)
+													</td></tr><tr><td>University</td><td>
+															Columbia University, New York City, NY, Gallatin School of Individualized Study, New York University, New York City, NY
+													</td></tr><tr><td>Occupation Text</td><td>
+															Actor
+													</td></tr><tr><td>Occupation</td><td>
+															Actor
+													</td></tr><tr><td>Claim to Fame</td><td>
+															Call Me by Your Name; Ladybird; Dune
+													</td></tr><tr><td>Year(s) Active</td><td>
+															2008–present, 2007–present
+													</td></tr><tr><td>Instrument (text)</td><td>
+															Piano, Guitar
+													</td></tr><tr><td>Official Websites</td><td>
+															www.instagram.com/tchalamet/, twitter.com/realchalamet
+													</td></tr><tr><td>Associated People</td><td>
+															Madonna, Lourdes Leon
+													</td></tr><tr><td>Pets</td><td>
+															A dog
+													</td></tr><tr><td>Favorite People</td><td>
+															Christopher Nolan
+													</td></tr><tr><td>Favorite Movies</td><td>
+															The Dark Knight [2008], Punch-Drunk Love [2002], James White [2015]
+													</td></tr><tr><td>Favorite TV Shows</td><td>
+															The Office [2005]
+													</td></tr><tr><td>Favorite Bands</td><td>
+															Kid Cudi
+													</td></tr><tr><td>Favorite Songs</td><td>
+															Sky might Fall (Kid Cudi), Go Legend (Big Sean), Rain (Kid Cudi), Heart-Shaped Box (Nirvana)
+													</td></tr><tr><td>Favorite Books</td><td>
+															The Book of Disquiet (Fernando Pessoa)
+													</td></tr><tr><td>Favorite Places</td><td>
+															New York
+													</td></tr></table><p class="ff-expandable" style="margin:1rem 0 0;">
+					Timothée Hal Chalamet (born December 27, 1995) is an American actor. The recipient of various accolades, including nominations for an Academy Award, three BAFTA Film Awards, two Golden Globe Awards, four Screen Actors Guild Awards, and four Critics' Choice Movie Awards, he began his acting career in short films and commercials, before appearing in the television drama series Homeland in 2012. Two years later, he made his feature film debut in the comedy-drama Men, Women &amp; Children and subsequently appeared in the science-fiction film Interstellar.
+				</p></div></div><div class="ff-toggler text-center left" data-ff-scroll="" data-ff-toggle=".ff-person-profile-detail-toggle" style="width:100%;margin-top: 2rem;"><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i "="" class="icon-angle-circled-down"></i></div>
+			More about Timothée Chalamet
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i "="" class="icon-angle-circled-up"></i></div>
+			Less about Timothée Chalamet
+		</div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-datingHistory" data-ff-id="topic.datingHistory" data-ff-name="topic.datingHistory" data-ff-trx="eb"><a class="ff-edit" data-ff-gx="Edit" data-ff-gx-click="" href="http://members.whosdatedwho.com#/topic/timothee-chalamet/relationships"><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history"><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button class="tiny radius secondary ff-active" id="ff-dh-btn-grid" onclick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button class="tiny radius secondary" id="ff-dh-btn-list" onclick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button class="tiny radius secondary" id="ff-dh-btn-table" onclick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			3
+		</td><td><a data-ff-gx="View Person,eiza-gonzalez" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/eiza-gonzalez">
+				Eiza González
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Jun 2020
+					</td><td>
+						    Oct 2020
+					</td><td>
+						    			
+    			    			4 months
+    			    			
+					</td><td><a data-ff-gx="View Couple,eiza-gonzalez-and-timothee-chalamet" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/eiza-gonzalez-and-timothee-chalamet" title="View Couple"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			2
+		</td><td><a data-ff-gx="View Person,lily-rose-melody-depp" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/lily-rose-melody-depp">
+				Lily-Rose Melody Depp
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    2018
+					</td><td>
+						    Apr 2020
+					</td><td>
+						    			2 years
+    			    			
+    			    			
+					</td><td><a data-ff-gx="View Couple,lily-rose-melody-depp-and-timothee-chalamet" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/lily-rose-melody-depp-and-timothee-chalamet" title="View Couple"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,lourdes-leon" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/lourdes-leon">
+				Lourdes Leon
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Mar 2013
+					</td><td>
+						    Mar 2014
+					</td><td>
+						    			1 year
+    			    			
+    			    			
+					</td><td><a data-ff-gx="View Couple,timothee-chalamet-and-lourdes-leon" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-lourdes-leon" title="View Couple"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-eiza-gonzalez"><a data-ff-gx="View Person,eiza-gonzalez" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/eiza-gonzalez"><div class="ff-img"><img alt="Eiza González" class="" height="258.26086956522" src="//img4.bdbphotos.com/images/230x300/e/9/e92itu6ewio66.jpg?skj2io4l" style="width:198px;height:258.26086956522px;" width="198"/><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+							</div><h4 class="ff-title">
+								Eiza González
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span aria-haspopup="true" class="has-tip tip-left" data-tooltip="" onclick="contentVote('v2865537138598881',2865537,1,3859888,1,'eiza-gonzalez-and-timothee-chalamet');return false;" title="I like this"><i class="icon-thumbs-up"></i><v class="v2865537138598881">101</v></span><span aria-haspopup="true" class="has-tip tip-right" data-tooltip="" onclick="contentVote('v286553713859888-1',2865537,1,3859888,'-1','eiza-gonzalez-and-timothee-chalamet');return false;" title="I dislike this"><i class="icon-thumbs-down"></i><v class="v286553713859888-1">356</v></span></div></div><h3>2020</h3><div class="ff-bottom"><a data-ff-gx="View Couple,eiza-gonzalez-and-timothee-chalamet" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/eiza-gonzalez-and-timothee-chalamet" style="clear:both;display:inline-block">
+			
+							Timothée Chalamet and Eiza González are separ...
+			
+							<span class="ff-more">[view couple]</span></a></div></div><div class="ff-grid-box" id="dating-lily-rose-melody-depp"><a data-ff-gx="View Person,lily-rose-melody-depp" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/lily-rose-melody-depp"><div class="ff-img"><img alt="Lily-Rose Melody Depp" class="" height="258.26086956522" src="//img4.bdbphotos.com/images/230x300/f/8/f84zzss80dwjwj.jpg?skj2io4l" style="width:198px;height:258.26086956522px;" width="198"/><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+							</div><h4 class="ff-title">
+								Lily-Rose Melody Depp
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span aria-haspopup="true" class="has-tip tip-left" data-tooltip="" onclick="contentVote('v35100804138598881',35100804,1,3859888,1,'lily-rose-melody-depp-and-timothee-chalamet');return false;" title="I like this"><i class="icon-thumbs-up"></i><v class="v35100804138598881">457</v></span><span aria-haspopup="true" class="has-tip tip-right" data-tooltip="" onclick="contentVote('v3510080413859888-1',35100804,1,3859888,'-1','lily-rose-melody-depp-and-timothee-chalamet');return false;" title="I dislike this"><i class="icon-thumbs-down"></i><v class="v3510080413859888-1">598</v></span></div></div><h3>2018 - 2020</h3><div class="ff-bottom"><a data-ff-gx="View Couple,lily-rose-melody-depp-and-timothee-chalamet" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/lily-rose-melody-depp-and-timothee-chalamet" style="clear:both;display:inline-block">
+			
+							Lily-Rose Melody Depp and Timothée Chalamet a...
+			
+							<span class="ff-more">[view couple]</span></a></div></div><div class="ff-grid-box" id="dating-lourdes-leon"><a data-ff-gx="View Person,lourdes-leon" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/lourdes-leon"><div class="ff-img"><img alt="Lourdes Leon" class="" height="258.26086956522" src="//img4.bdbphotos.com/images/230x300/z/t/ztc8h9ywgelbw9gy.jpg?skj2io4l" style="width:198px;height:258.26086956522px;" width="198"/><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><h4 class="ff-title">
+								Lourdes Leon
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span aria-haspopup="true" class="has-tip tip-left" data-tooltip="" onclick="contentVote('v327198138598881',327198,1,3859888,1,'timothee-chalamet-and-lourdes-leon');return false;" title="I like this"><i class="icon-thumbs-up"></i><v class="v327198138598881">176</v></span><span aria-haspopup="true" class="has-tip tip-right" data-tooltip="" onclick="contentVote('v32719813859888-1',327198,1,3859888,'-1','timothee-chalamet-and-lourdes-leon');return false;" title="I dislike this"><i class="icon-thumbs-down"></i><v class="v32719813859888-1">505</v></span></div></div><h3>2013 - 2014</h3><div class="ff-bottom"><a data-ff-gx="View Couple,timothee-chalamet-and-lourdes-leon" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-lourdes-leon" style="clear:both;display:inline-block">
+			
+							Timothée Chalamet and Lourdes Leon separated ...
+			
+							<span class="ff-more">[view couple]</span></a></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a data-ff-gx="View Person,eiza-gonzalez" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/eiza-gonzalez" style="background-image:url('//img2.bdbphotos.com/images/orig/e/9/e92itu6ewio6oi6.jpg?skj2io4l')"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+				</div><div class="ff-details"><h4 class="ff-title"><a data-ff-gx="View Person,eiza-gonzalez" data-ff-gx-click="" href="eiza-gonzalez">Eiza González</a></h4><h3>
+						2020
+						<small></small></h3><p data-ff-gx="View Couple,eiza-gonzalez-and-timothee-chalamet" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/eiza-gonzalez-and-timothee-chalamet">
+												
+						Timothée Chalamet and Eiza González had a relationship from Jun 2020 to Oct 2020.
+		
+					</p><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact">4</div><div class="footer">months</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ff-contents='&lt;iframe src="http://members.whosdatedwho.com/?layout=popover#/topic/eiza-gonzalez-and-timothee-chalamet/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources" style="height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;"&gt;&lt;/iframe&gt;' data-ff-modal="" data-ff-size="minimal" data-ffw="popover"><div class="header">Sources</div><div class="fact"><svg class="ff-meter-custom" height="48px" version="1.1" viewbox="0 0 100 100" width="48px" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" fill="none" r="45" stroke="#ccc" stroke-width="10"></circle><circle cx="50" cy="50" fill="none" r="45" stroke="green" stroke-width="10"></circle><text dy=".5rem" style="fill:green;stroke:none;" text-anchor="middle" x="50%" y="50%">3</text></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-message="&lt;table width='100%'&gt;&lt;tr&gt;&lt;th&gt;Measure&lt;/th&gt;&lt;th&gt;Result&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Zodiac&lt;/td&gt;&lt;td&gt;40%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chinese zodiac&lt;/td&gt;&lt;td&gt;80%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Height&lt;/td&gt;&lt;td&gt;55%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Age&lt;/td&gt;&lt;td&gt;33%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" data-ff-tpl-param-title="Compatibility" data-ffw="popover" href="#"><div class="header">Compatibility</div><div class="fact"><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">52%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:22.100656455142%;border-bottom:2px solid green;"></div><div style="float:left;width:77.899343544858%;border-bottom:2px solid red;"></div></div><span aria-haspopup="true" class="has-tip tip-left" data-tooltip="" onclick="contentVote('v2865537138598881',2865537,1,3859888,1,'eiza-gonzalez-and-timothee-chalamet');return false;" title="I like this"><i class="icon-thumbs-up"></i><v class="v2865537138598881">101</v></span><span aria-haspopup="true" class="has-tip tip-right" data-tooltip="" onclick="contentVote('v286553713859888-1',2865537,1,3859888,'-1','eiza-gonzalez-and-timothee-chalamet');return false;" title="I dislike this"><i class="icon-thumbs-down"></i><v class="v286553713859888-1">356</v></span></div><a class="button radius small ff-view-button" data-ff-gx="View Couple,eiza-gonzalez-and-timothee-chalamet" data-ff-gx-click="" href="eiza-gonzalez-and-timothee-chalamet">view relationship</a></div></div><div class="ff-list-box"><a data-ff-gx="View Person,lily-rose-melody-depp" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/lily-rose-melody-depp" style="background-image:url('//img5.bdbphotos.com/images/orig/f/8/f84zzss80dwjd0js.jpg?skj2io4l')"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+				</div><div class="ff-details"><h4 class="ff-title"><a data-ff-gx="View Person,lily-rose-melody-depp" data-ff-gx-click="" href="lily-rose-melody-depp">Lily-Rose Melody Depp</a></h4><h3>
+						2018 - 2020
+						<small></small></h3><p data-ff-gx="View Couple,lily-rose-melody-depp-and-timothee-chalamet" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/lily-rose-melody-depp-and-timothee-chalamet">
+												
+						Lily-Rose Melody Depp and Timothée Chalamet had a relationship from 2018 to Apr 2020.
+		
+					</p><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact">2</div><div class="footer">years</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ff-contents='&lt;iframe src="http://members.whosdatedwho.com/?layout=popover#/topic/lily-rose-melody-depp-and-timothee-chalamet/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources" style="height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;"&gt;&lt;/iframe&gt;' data-ff-modal="" data-ff-size="minimal" data-ffw="popover"><div class="header">Sources</div><div class="fact"><svg class="ff-meter-custom" height="48px" version="1.1" viewbox="0 0 100 100" width="48px" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" fill="none" r="45" stroke="#ccc" stroke-width="10"></circle><circle cx="50" cy="50" fill="none" r="45" stroke="green" stroke-width="10"></circle><text dy=".5rem" style="fill:green;stroke:none;" text-anchor="middle" x="50%" y="50%">3</text></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-message="&lt;table width='100%'&gt;&lt;tr&gt;&lt;th&gt;Measure&lt;/th&gt;&lt;th&gt;Result&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Zodiac&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chinese zodiac&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Height&lt;/td&gt;&lt;td&gt;73%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Age&lt;/td&gt;&lt;td&gt;72%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" data-ff-tpl-param-title="Compatibility" data-ffw="popover" href="#"><div class="header">Compatibility</div><div class="fact"><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">66%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:43.317535545024%;border-bottom:2px solid green;"></div><div style="float:left;width:56.682464454976%;border-bottom:2px solid red;"></div></div><span aria-haspopup="true" class="has-tip tip-left" data-tooltip="" onclick="contentVote('v35100804138598881',35100804,1,3859888,1,'lily-rose-melody-depp-and-timothee-chalamet');return false;" title="I like this"><i class="icon-thumbs-up"></i><v class="v35100804138598881">457</v></span><span aria-haspopup="true" class="has-tip tip-right" data-tooltip="" onclick="contentVote('v3510080413859888-1',35100804,1,3859888,'-1','lily-rose-melody-depp-and-timothee-chalamet');return false;" title="I dislike this"><i class="icon-thumbs-down"></i><v class="v3510080413859888-1">598</v></span></div><a class="button radius small ff-view-button" data-ff-gx="View Couple,lily-rose-melody-depp-and-timothee-chalamet" data-ff-gx-click="" href="lily-rose-melody-depp-and-timothee-chalamet">view relationship</a></div></div><div class="ff-list-box"><a data-ff-gx="View Person,lourdes-leon" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/lourdes-leon" style="background-image:url('//img1.bdbphotos.com/images/orig/z/t/ztc8h9ywgelbh8yz.jpg?skj2io4l')"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a data-ff-gx="View Person,lourdes-leon" data-ff-gx-click="" href="lourdes-leon">Lourdes Leon</a></h4><h3>
+						2013 - 2014
+						<small></small></h3><p data-ff-gx="View Couple,timothee-chalamet-and-lourdes-leon" data-ff-gx-click="" href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-lourdes-leon">
+												
+						Timothée Chalamet and Lourdes Leon dated from March, 2013 to March, 2014.
+		
+					</p><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact">1</div><div class="footer">years</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ff-contents='&lt;iframe src="http://members.whosdatedwho.com/?layout=popover#/topic/timothee-chalamet-and-lourdes-leon/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources" style="height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;"&gt;&lt;/iframe&gt;' data-ff-modal="" data-ff-size="minimal" data-ffw="popover"><div class="header">Sources</div><div class="fact"><svg class="ff-meter-custom" height="48px" version="1.1" viewbox="0 0 100 100" width="48px" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" fill="none" r="45" stroke="#ccc" stroke-width="10"></circle><text dy=".5rem" style="fill:gray;stroke:none;" text-anchor="middle" x="50%" y="50%">2</text><path d="M 50 5 A 45 45 0 1 1 12 75" fill="none" stroke="gray" stroke-width="10"></path></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-message="&lt;table width='100%'&gt;&lt;tr&gt;&lt;th&gt;Measure&lt;/th&gt;&lt;th&gt;Result&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Zodiac&lt;/td&gt;&lt;td&gt;20%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Chinese zodiac&lt;/td&gt;&lt;td&gt;80%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Height&lt;/td&gt;&lt;td&gt;55%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Age&lt;/td&gt;&lt;td&gt;98%&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" data-ff-tpl-param-title="Compatibility" data-ffw="popover" href="#"><div class="header">Compatibility</div><div class="fact"><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">63%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:25.844346549192%;border-bottom:2px solid green;"></div><div style="float:left;width:74.155653450808%;border-bottom:2px solid red;"></div></div><span aria-haspopup="true" class="has-tip tip-left" data-tooltip="" onclick="contentVote('v327198138598881',327198,1,3859888,1,'timothee-chalamet-and-lourdes-leon');return false;" title="I like this"><i class="icon-thumbs-up"></i><v class="v327198138598881">176</v></span><span aria-haspopup="true" class="has-tip tip-right" data-tooltip="" onclick="contentVote('v32719813859888-1',327198,1,3859888,'-1','timothee-chalamet-and-lourdes-leon');return false;" title="I dislike this"><i class="icon-thumbs-down"></i><v class="v32719813859888-1">505</v></span></div><a class="button radius small ff-view-button" data-ff-gx="View Couple,timothee-chalamet-and-lourdes-leon" data-ff-gx-click="" href="timothee-chalamet-and-lourdes-leon">view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="GS_1"></div><script async="async" src="//widgets.outbrain.com/outbrain.js" type="text/javascript"></script></div></div></div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-partnerComparison" data-ff-id="topic.partnerComparison" data-ff-name="topic.partnerComparison" data-ff-trx="eb"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header"><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content" id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%">Name</th><th width="12%">Age</th><th width="23%">Zodiac</th><th width="20%">Occupation</th><th width="20%">Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/timothee-chalamet">Timothée Chalamet</a></td><td>25</td><td><i class="icon-40"></i>
+
+Capricorn</td><td>Actor</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"/><br/>American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/eiza-gonzalez">Eiza González</a></td><td>31</td><td><i class="icon-41"></i>
+
+Aquarius</td><td>Actress</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/mx.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"/><br/>Mexican</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/lily-rose-melody-depp">Lily-Rose Melody Depp</a></td><td>22</td><td><i class="icon-45"></i>
+
+Gemini</td><td>Actress</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/fr.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"/><br/>French</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/lourdes-leon">Lourdes Leon</a></td><td>25</td><td><i class="icon-49"></i>
+
+Libra</td><td>Relative</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"/><br/>American</td></tr></tbody></table></div></fieldset> <fieldset class="ff-dropitem block-topic-gallery" data-ff-id="topic.gallery" data-ff-name="topic.gallery" data-ff-trx="eb"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header"><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content" id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ff-display-id="gallery-display-3859888" data-ff-thumbs-id="gallery-thumbs-3859888" data-ff-topic="3859888" data-ffw="gallery"><div class="swiper-container ff-swiper-gallery-display" id="gallery-display-3859888"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/v/8/v8qxr09ui57oo7u.jpg?skj2io4l"/><div class="ff-caption">The French Dispatch (2021)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/x/i/xivm90dwftmkmtd.jpg?skj2io4l"/><div class="ff-caption">The French Dispatch (2021)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/t/i/ti9k2vr6djksjdsv.jpg?skj2io4l"/><div class="ff-caption">The French Dispatch (2021)</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/k/x/kxn88e7zsuo7us7e.jpg?skj2io4l"/><div class="ff-caption">The French Dispatch (2021)</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/8/4/84c51grx4nyeynr.jpg?skj2io4l"/><div class="ff-caption">The French Dispatch (2021)</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/f/e/fez4bt7k9xaefez9.jpg?skj2io4l"/><div class="ff-caption">The French Dispatch (2021)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/q/r/qrmkbr1njkf1mrbf.jpg?skj2io4l"/><div class="ff-caption">The French Dispatch (2021)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/d/z/dz9jbt06muq2qu0.jpg?skj2io4l"/><div class="ff-caption">The French Dispatch (2021)</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/r/c/rc9sqft338zos9fo.jpg?skj2io4l"/><div class="ff-caption">The French Dispatch (2021)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/d/t/dt8lw852kki7d78k.jpg?skj2io4l"/><div class="ff-caption">The French Dispatch (2021)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/d/e/dex0hhi0zreh0ir0.jpg?skj2io4l"/><div class="ff-caption">The French Dispatch (2021)</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/u/p/upr8bm5j03sk5m0r.jpg?skj2io4l"/><div class="ff-caption">The French Dispatch (2021)</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div class="swiper-container ff-swiper-gallery-thumbs" id="gallery-thumbs-3859888"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/v/8/v8qxr09ui57oo7u.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/x/i/xivm90dwftmkmtd.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/t/i/ti9k2vr6djksjdsv.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/k/x/kxn88e7zsuo7us7e.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/8/4/84c51grx4nyeynr.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/f/e/fez4bt7k9xaefez9.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/q/r/qrmkbr1njkf1mrbf.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/d/z/dz9jbt06muq2qu0.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/r/c/rc9sqft338zos9fo.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/d/t/dt8lw852kki7d78k.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/d/e/dex0hhi0zreh0ir0.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/u/p/upr8bm5j03sk5m0r.jpg?skj2io4l)"></div></div></div></div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-filmography" data-ff-id="topic.filmography" data-ff-name="topic.filmography" data-ff-trx="eb"><div id="section-filmography" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header"><h2>
+										Filmography 
+									
+								</h2></div><div class="ff-block-content" id="ff-filmography"><table class="ff-table" width="100%"><thead><tr><th width="40%">Film</th><th width="10%">Year</th><th width="30%">Character</th><th width="20%">Type</th></tr></thead><tbody><tr><td>Dune</td><td>2021</td><td>Paul Atreides</td><td>Movie</td></tr><tr><td>The French Dispatch</td><td>2021</td><td>Zeffirelli</td><td>Movie</td></tr><tr><td>Don't Look Up</td><td>2021</td><td>Quentin</td><td>Movie</td></tr><tr><td>A Rainy Day in New York</td><td>2020</td><td>Gatsby</td><td>Movie</td></tr><tr><td>Little Women</td><td>2019</td><td>Laurie</td><td>Movie</td></tr><tr><td>The King</td><td>2019</td><td>Hal</td><td>Movie</td></tr><tr><td>Beautiful Boy</td><td>2018</td><td>Nic Sheff</td><td>Movie</td></tr><tr><td>Hot Summer Nights</td><td>2018</td><td>Daniel</td><td>Movie</td></tr><tr><td>Lady Bird</td><td>2017</td><td>Kyle Scheible</td><td>Movie</td></tr><tr><td>Hostiles</td><td>2017</td><td>Pvt. Philippe DeJardin (as Timothee Chalamet)</td><td>Movie</td></tr></tbody><tbody class="ff-filmography-table-toggle hide"><tr><td>Call Me by Your Name</td><td>2017</td><td>Elio</td><td>Movie</td></tr><tr><td>Miss Stevens</td><td>2016</td><td>Billy</td><td>Movie</td></tr><tr><td>The Adderall Diaries</td><td>2015</td><td>Teenage Stephen</td><td>Movie</td></tr><tr><td>Love the Coopers</td><td>2015</td><td>Charlie</td><td>Movie</td></tr><tr><td>One and Two</td><td>2015</td><td>Zac</td><td>Movie</td></tr><tr><td>Interstellar</td><td>2014</td><td>Tom (15 Yrs.)</td><td>Movie</td></tr><tr><td>Worst Friends</td><td>2014</td><td>Young Sam</td><td>Movie</td></tr><tr><td>Men, Women &amp; Children</td><td>2014</td><td>Danny Vance</td><td>Movie</td></tr><tr><td>Spinners</td><td>2013</td><td>Jace</td><td>Short Film</td></tr><tr><td>Trooper</td><td>2012</td><td>Lee Flaxton</td><td>TV Movie</td></tr><tr><td>Homeland</td><td>2011</td><td>Finn Walden</td><td>TV Show</td></tr><tr><td>Loving Leah</td><td>2009</td><td>Young Jake</td><td>TV Movie</td></tr><tr><td>Royal Pains</td><td>2009</td><td>Luke</td><td>TV Show</td></tr><tr><td>Sweet Tooth</td><td>2008</td><td>Samuel (as Timothy Chalamet)</td><td>Short Film</td></tr><tr><td>Clown</td><td>2008</td><td>Clown Boy</td><td>Short Film</td></tr><tr><td>Law &amp; Order</td><td>1990</td><td>Eric Foley</td><td>TV Show</td></tr><tr><td>Untitled Willy Wonka Project</td><td></td><td>Willy Wonka</td><td>Movie</td></tr><tr><td>Bones &amp; All</td><td></td><td>Lee</td><td>Movie</td></tr></tbody></table><div class="ff-toggler text-center left" data-ff-scroll="" data-ff-toggle=".ff-filmography-table-toggle" style="width:100%;margin-top: 2rem;"><div class="ff-filmography-table-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i "="" class="icon-angle-circled-down"></i></div>
+			Show More
+		</div><div class="ff-filmography-table-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i "="" class="icon-angle-circled-up"></i></div>
+			Show Less
+		</div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-onscreenMatchupsGrid" data-ff-id="topic.onscreenMatchupsGrid" data-ff-name="topic.onscreenMatchupsGrid" data-ff-trx="eb"><div id="section-onscreen-matchups" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header onscreen"><h2>
+										Onscreen Matchups 
+									
+								</h2></div><div class="ff-block-content onscreen" id="ff-onscreen-matchups"><div class="ff-box-grid ff-onscreen" style="margin:0;"><ul><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/florence-pugh-and-timothee-chalamet"><img alt="Florence Pugh and Timothée Chalamet" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/y/u/yu2llfcr088ucu0l.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/y/u/yu2llfcr088u0uf2.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/florence-pugh">Florence Pugh</a><a href="https://www.whosdatedwho.com/dating/florence-pugh-and-timothee-chalamet"><ul><li>
+							Little Women<br/>
+							2019
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/lily-rose-melody-depp-and-timothee-chalamet"><img alt="Lily-Rose Melody Depp and Timothée Chalamet" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/1/q/1qebd0yeu9k8e9d8.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/1/q/1qebd0yeu9k8deqk.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/lily-rose-melody-depp">Lily-Rose Melody Depp</a><a href="https://www.whosdatedwho.com/dating/lily-rose-melody-depp-and-timothee-chalamet"><ul><li>
+							The King<br/>
+							2019
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/saoirse-ronan-and-timothee-chalamet"><img alt="Saoirse Ronan and Timothée Chalamet" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/v/9/v9ij8k0n181yn8.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/v/9/v9ij8k0n181yky1.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/saoirse-ronan">Saoirse Ronan</a><a href="https://www.whosdatedwho.com/dating/saoirse-ronan-and-timothee-chalamet"><ul><li>
+							Lady Bird<br/>
+							2017
+						</li></ul><span class="ff-bottom">[+1 more]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-armie-hammer"><img alt="Timothée Chalamet and Armie Hammer" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/l/b/lbqhsvhx66eqsqhb.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/l/b/lbqhsvhx66eqh6hl.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/armie-hammer">Armie Hammer</a><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-armie-hammer"><ul><li>
+							Call Me by Your Name<br/>
+							2017
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-elle-fanning"><img alt="Timothée Chalamet and Elle Fanning" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/4/s/4sjvwvp2oomtvmv4.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/4/s/4sjvwvp2oomtvojt.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/elle-fanning">Elle Fanning</a><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-elle-fanning"><ul><li>
+							A Rainy Day in New York<br/>
+							2020
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-esther-garrel"><img alt="Timothée Chalamet and Esther Garrel" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/x/m/xmt35yldl56tdt55.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/x/m/xmt35yldl56t5xl3.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/esther-garrel">Esther Garrel</a><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-esther-garrel"><ul><li>
+							Call Me by Your Name<br/>
+							2017
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-k-c-hughes"><img alt="Timothée Chalamet and K.C. Hughes" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/z/t/ztaduerx531k3ukr.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/z/t/ztaduerx531kka5e.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/k-c-hughes">K.C. Hughes</a><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-k-c-hughes"><ul><li>
+							Men, Women &amp; Children<br/>
+							2014
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-kaitlyn-dever"><img alt="Timothée Chalamet and Kaitlyn Dever" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/2/z/2zc1u6inwkxcwx.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/2/z/2zc1u6inwkxcik.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/kaitlyn-dever">Kaitlyn Dever</a><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-kaitlyn-dever"><ul><li>
+							Beautiful Boy<br/>
+							2018
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><div class="ff-onscreen-toggle hide"><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-maika-monroe"><img alt="Timothée Chalamet and Maika Monroe" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/8/s/8st9vcffqisaivaf.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/8/s/8st9vcffqisaatqc.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/maika-monroe">Maika Monroe</a><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-maika-monroe"><ul><li>
+							Hot Summer Nights<br/>
+							2018
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-molly-gordon"><img alt="Timothée Chalamet and Molly Gordon" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/i/u/iucmqabvl9zezav.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/i/u/iucmqabvl9zem9b.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/molly-gordon-3214575">Molly Gordon</a><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-molly-gordon"><ul><li>
+							Love the Coopers<br/>
+							2015
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-selena-gomez"><img alt="Timothée Chalamet and Selena Gomez" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/p/i/pilubwlbecr8er.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/p/i/pilubwlbecr8lc.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/selena-gomez">Selena Gomez</a><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-selena-gomez"><ul><li>
+							A Rainy Day in New York<br/>
+							2020
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/zendaya-and-timothee-chalamet"><img alt="Zendaya and Timothée Chalamet" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/6/x/6xck7ar6gnjjjrg.jpg?skj2io4l" height="130" src="//img3.bdbphotos.com/images/130x130/6/x/6xck7ar6gnjj7j6.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a><a href="https://www.whosdatedwho.com/dating/zendaya">Zendaya</a><a href="https://www.whosdatedwho.com/dating/zendaya-and-timothee-chalamet"><ul><li>
+							Dune<br/>
+							2021
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li></div></ul></div><div class="text-center left" data-ff-scroll="" data-ff-toggle=".ff-onscreen-toggle" style="width:100%;margin-top: 2rem;"><div class="ff-onscreen-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down" style="background-color:#f3f3f3;"></i></div>
+		More Timothée Chalamet Onscreen Matchups
+	</div><div class="ff-onscreen-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up" style="background-color:#f3f3f3;"></i></div>
+		Less Timothée Chalamet Onscreen Matchups
+	</div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-comments" data-ff-id="topic.comments" data-ff-name="topic.comments" data-ff-trx="eb"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header"><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content" id="ff-discussions"><div class="ff-panel"><h3>Posted comments<small><a href="https://www.famousfix.com/topic/timothee-chalamet/forum" title="Timothée Chalamet discussion board">View all comments (5)</a></small></h3><div class="ff-comment-item" data-ff-eid="43032372" data-ff-id="106860171" data-ff-tid="6" data-ff-title="shared a link: https://www.allmovie.com/artist/timoth%C3%A9e-chalamet-p746400" data-ff-url="" data-ffw="content"><a class="ff-user" href="http://members.famousfix.com/member/halfgoofy"><span class="ff-img" data-ff-image=""><img alt="halfgoofy" class="" height="16" src="//img4.bdbphotos.com/images/50x50/o/u/ougm1yuins6uygiu.jpg?skj2io4l" style="width:16px;height:16px;" width="16"/></span><span data-ff-webname="">halfgoofy</span></a><span class="ff-bullet"></span><span class="ff-comment-time" data-ff-time="2021-07-27 13:35:17">Jul 27</span><p class="ff-comment" data-ff-auto-image="" data-ff-text="">shared a link: https://www.allmovie.com/artist/timoth%C3%A9e-chalamet-p746400</p></div><div class="ff-comment-item" data-ff-eid="56484668" data-ff-id="102190303" data-ff-tid="6" data-ff-title="Dune (2020) Official (photo set/video from Vanity Fair) https://youtu.be/1EI-UrAweXE" data-ff-url="" data-ffw="content"><a class="ff-user" href="http://members.famousfix.com/member/Cowgirl_Chaps"><span class="ff-img" data-ff-image=""><img alt="Cowgirl_Chaps" class="" height="16" src="//img4.bdbphotos.com/images/50x50/x/x/xxgz431vigvog1o3.jpg?skj2io4l" style="width:16px;height:16px;" width="16"/></span><span data-ff-webname="">Cowgirl_Chaps</span></a><span class="ff-bullet"></span><span class="ff-comment-time" data-ff-time="2020-05-06 13:08:53">May 6, 2020</span><p class="ff-comment" data-ff-auto-image="" data-ff-text="">Dune (2020) Official (photo set/video from Vanity Fair) https://youtu.be/1EI-UrAweXE</p></div><div class="ff-comment-item" data-ff-eid="56484668" data-ff-id="102190302" data-ff-tid="6" data-ff-title="Dune (2020) First look revealed https://youtu.be/F3HLmX7Zi00" data-ff-url="" data-ffw="content"><a class="ff-user" href="http://members.famousfix.com/member/Cowgirl_Chaps"><span class="ff-img" data-ff-image=""><img alt="Cowgirl_Chaps" class="" height="16" src="//img4.bdbphotos.com/images/50x50/x/x/xxgz431vigvog1o3.jpg?skj2io4l" style="width:16px;height:16px;" width="16"/></span><span data-ff-webname="">Cowgirl_Chaps</span></a><span class="ff-bullet"></span><span class="ff-comment-time" data-ff-time="2020-05-06 13:07:32">May 6, 2020</span><p class="ff-comment" data-ff-auto-image="" data-ff-text="">Dune (2020) First look revealed https://youtu.be/F3HLmX7Zi00</p></div><div class="ff-comment-item" data-ff-eid="56484668" data-ff-id="98764207" data-ff-tid="6" data-ff-title="This guy is on fire and it's just beginning!" data-ff-url="" data-ffw="content"><a class="ff-user" href="http://members.famousfix.com/member/Cowgirl_Chaps"><span class="ff-img" data-ff-image=""><img alt="Cowgirl_Chaps" class="" height="16" src="//img4.bdbphotos.com/images/50x50/x/x/xxgz431vigvog1o3.jpg?skj2io4l" style="width:16px;height:16px;" width="16"/></span><span data-ff-webname="">Cowgirl_Chaps</span></a><span class="ff-bullet"></span><span class="ff-comment-time" data-ff-time="2019-09-06 08:06:53">Sep 6, 2019</span><p class="ff-comment" data-ff-auto-image="" data-ff-text="">This guy is on fire and it's just beginning!</p></div><div class="ff-comment-item" data-ff-eid="56484668" data-ff-id="98703547" data-ff-tid="6" data-ff-title="The King Official trailer (November 1st release)" data-ff-url="" data-ffw="content"><a class="ff-user" href="http://members.famousfix.com/member/Cowgirl_Chaps"><span class="ff-img" data-ff-image=""><img alt="Cowgirl_Chaps" class="" height="16" src="//img4.bdbphotos.com/images/50x50/x/x/xxgz431vigvog1o3.jpg?skj2io4l" style="width:16px;height:16px;" width="16"/></span><span data-ff-webname="">Cowgirl_Chaps</span></a><span class="ff-bullet"></span><span class="ff-comment-time" data-ff-time="2019-09-03 19:28:58">Sep 3, 2019</span><p class="ff-comment" data-ff-auto-image="" data-ff-text="">The King Official trailer (November 1st release)</p></div><hr/><a href="https://www.famousfix.com/topic/timothee-chalamet/forum" style="margin-top:-1rem;float:right;" title="Timothée Chalamet discussion board">Join the FamousFix discussion board &gt;&gt;</a></div></div></fieldset> </div>
+<div class="ff-cont-side ff-droplist" data-ff-layout-block="" data-ff-name="side" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" data-ffw="affix"> <fieldset class="ff-dropitem block-global-adDFP_RightTop" data-ff-id="global.adDFP_RightTop" data-ff-name="global.adDFP_RightTop" data-ff-trx="eb"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div style="min-height:250px;"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250,300x600";
+    e9.noAd = 1;
+//--></script><script src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js" type="text/javascript"></script></div></div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-id="topic.relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid" data-ff-trx="eb"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header"><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content" id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/madonna"><img alt="Madonna" class="" height="93" src="//img3.bdbphotos.com/images/130x130/d/7/d72d3o0l7awlw7l3.jpg?skj2io4l" style="width:93px;height:93px;" width="93"/><div class="ff-name">Madonna</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>106</span></span><span class="ff-rank-change"><span>+1</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/carlos-leon"><img alt="Carlos Leon" class="" height="93" src="//img3.bdbphotos.com/images/130x130/c/c/cc4dyejd1c12ccjd.jpg?skj2io4l" style="width:93px;height:93px;" width="93"/><div class="ff-name">Carlos Leon</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>2,706</span></span><span class="ff-rank-change"><span>+845</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/garrett-backstrom"><img alt="Garrett Backstrom" class="" height="93" src="//img3.bdbphotos.com/images/130x130/u/3/u3336pqxqm3eqm.jpg?skj2io4l" style="width:93px;height:93px;" width="93"/><div class="ff-name">Garrett Backstrom</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>3,829</span></span><span class="ff-rank-change"><span>+621</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/rihanna"><img alt="Rihanna" class="" height="93" src="//img3.bdbphotos.com/images/130x130/5/7/57ixzar7lucn7cz7.jpg?skj2io4l" style="width:93px;height:93px;" width="93"/><div class="ff-name">Rihanna</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>28</span></span><span class="ff-rank-change ff-neg"><span>-4</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/guy-ritchie"><img alt="Guy Ritchie" class="" height="93" src="//img3.bdbphotos.com/images/130x130/w/6/w6lunuriw5g1w1ul.jpg?skj2io4l" style="width:93px;height:93px;" width="93"/><div class="ff-name">Guy Ritchie</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1,146</span></span><span class="ff-rank-change"><span>+397</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/selena-gomez"><img alt="Selena Gomez" class="" data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/2/k/2kh91ejg7xhngx.jpg?skj2io4l" height="93" src="//img3.bdbphotos.com/images/130x130/2/k/2kh91ejg7xhnen7.jpg?skj2io4l" style="width:93px;height:93px;" width="93"/><div class="ff-name">Selena Gomez</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>1</span></span><span class="ff-rank-change"><span>0</span></span></div></a></li></ul></div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-relatedLists" data-ff-id="topic.relatedLists" data-ff-name="topic.relatedLists" data-ff-trx="eb"><div class="ff-block-content related-searches" id="ff-a0c4073f96b18f599c1f0fc16b8b9885"><div class="ff-panel"><h2>Related Lists</h2><div class="ff-box-grid ff-full-width ff-lists" style="margin:0;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="https://www.whosdatedwho.com/lists/new-york-university-alumni" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img alt="New York University alumni" class="" height="50" src="//img4.bdbphotos.com/images/50x50/6/h/6h1bs9teieqyeseb.jpg?skj2io4l" style="width:50px;height:50px;" width="50"/></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						New York University alumni
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="https://www.whosdatedwho.com/lists/columbia-university-alumni" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img alt="Columbia University alumni" class="" height="50" src="//img4.bdbphotos.com/images/50x50/m/3/m3rgwodan4sj4n.jpg?skj2io4l" style="width:50px;height:50px;" width="50"/></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						Columbia University alumni
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="https://www.whosdatedwho.com/lists/people-from-the-bronx" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img alt="People from the Bronx" class="" height="50" src="//img4.bdbphotos.com/images/50x50/u/g/ugal3z57z59hhz7.jpg?skj2io4l" style="width:50px;height:50px;" width="50"/></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						People from the Bronx
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="https://www.whosdatedwho.com/lists/american-actor-stubs" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img alt="American actor stubs" class="" height="50" src="//img4.bdbphotos.com/images/50x50/t/2/t2ehoxaxbh39e9o3.jpg?skj2io4l" style="width:50px;height:50px;" width="50"/></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American actor stubs
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="https://www.whosdatedwho.com/lists/people-from-hells-kitchen-manhattan" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img alt="People from Hell's Kitchen, Manhattan" class="" height="50" src="//img4.bdbphotos.com/images/50x50/w/q/wqu54n3a1xj9qj5x.jpg?skj2io4l" style="width:50px;height:50px;" width="50"/></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						People from Hell's Kitchen, Manhattan
+					
+				</a></li></ul></div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-contribute" data-ff-id="topic.contribute" data-ff-name="topic.contribute" data-ff-trx="eb"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute"><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for Timothée Chalamet</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="http://members.whosdatedwho.com#/member/delejes1" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img alt="delejes1" class="" height="24" src="//img4.bdbphotos.com/images/50x50/z/h/zh4eirtbuimpurmi.jpg?skj2io4l" style="width:24px;height:24px;" width="24"/></div><div style="float:right">
+					224
+				</div>
+					delejes1
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="http://members.whosdatedwho.com#/member/Redheadenuffsaid" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img alt="Redheadenuffsaid" class="" height="24" src="//img4.bdbphotos.com/images/50x50/d/p/dpr4x0pa33kekap.jpg?skj2io4l" style="width:24px;height:24px;" width="24"/></div><div style="float:right">
+					77
+				</div>
+					Redheadenuffsaid
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="http://members.whosdatedwho.com#/member/sandrita0210" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img alt="sandrita0210" class="" height="24" src="//img4.bdbphotos.com/images/50x50/6/o/6o69ghu6yjesu9y6.jpg?skj2io4l" style="width:24px;height:24px;" width="24"/></div><div style="float:right">
+					61
+				</div>
+					sandrita0210
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="http://members.whosdatedwho.com#/member/Tracker748" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img alt="Tracker748" class="" height="24" src="//img4.bdbphotos.com/images/50x50/8/c/8ca2re7ut9ouutu.jpg?skj2io4l" style="width:24px;height:24px;" width="24"/></div><div style="float:right">
+					46
+				</div>
+					Tracker748
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a class="text-left" href="http://members.whosdatedwho.com#/member/RobertKi" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img alt="RobertKi" class="" height="24" src="//img4.bdbphotos.com/images/50x50/h/0/h087e6j8lrpoj7l8.jpg?skj2io4l" style="width:24px;height:24px;" width="24"/></div><div style="float:right">
+					41
+				</div>
+					RobertKi
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep Timothée Chalamet profile up to date.</p><div data-ff-action="login" data-ff-social="" data-ffw="user"><a class="button radius primary small">Login</a></div></div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-sixDegrees" data-ff-id="topic.sixDegrees" data-ff-name="topic.sixDegrees" data-ff-trx="eb"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees"><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with Timothée Chalamet to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ff-hide-views="" data-ff-name="topic1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-tids="1" data-ff-value="3859888:timothee-chalamet" data-ffw="auto"></div></div><div class="left" style="width:5%"><span class="prefix">&amp;</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ff-hide-views="" data-ff-name="topic2" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-tids="1" data-ffw="auto"></div></div><div class="left ff-sd-btn" style="width:7.5%"><input class="button primary postfix" style="padding:0;" type="submit" value="Go"/></div><div></div></div></form><h5>Recent connections involving Timothée Chalamet</h5><ul style="list-style:none;margin:.5rem;"><li style="clear:both;"><a href="/six-degrees/107726499">
+			Gene Wilder and Timothée Chalamet
+		</a></li><li style="clear:both;"><a href="/six-degrees/107726450">
+			Jonny Lee Miller and Timothée Chalamet
+		</a></li><li style="clear:both;"><a href="/six-degrees/107720931">
+			Dick Foran and Timothée Chalamet
+		</a></li><li style="clear:both;"><a href="/six-degrees/107720911">
+			Queen Elizabeth II and Timothée Chalamet
+		</a></li><li style="clear:both;"><a href="/six-degrees/107708894">
+			Timothée Chalamet and Matthew Foley
+		</a></li></ul></div></div></div></fieldset> <fieldset class="ff-dropitem block-topic-famousFixDesktop" data-ff-id="topic.famousFixDesktop" data-ff-name="topic.famousFixDesktop" data-ff-trx="eb"><div class="ff-block-content" id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More Timothée Chalamet</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/timothee-chalamet"><img alt="The French Dispatch (2021)" class="" height="130" src="//img3.bdbphotos.com/images/130x130/v/8/v8qxr09ui57o95.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/timothee-chalamet"><img alt="The French Dispatch (2021)" class="" height="130" src="//img3.bdbphotos.com/images/130x130/x/i/xivm90dwftmk0kf.jpg?skj2io4l" style="width:130px;height:130px;" width="130"/></a></div><a class="right" href="https://www.famousfix.com/topic/timothee-chalamet" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																																										photos, 
+																									film, 
+																									magazines
+													and more from FamousFix.com
+			</a></div></div></fieldset> <fieldset class="ff-dropitem block-global-adDFP_RightBottom" data-ff-id="global.adDFP_RightBottom" data-ff-name="global.adDFP_RightBottom" data-ff-trx="eb"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW_right_bottom_new --><ins class="adsbygoogle" data-ad-client="ca-pub-4356445222935173" data-ad-format="auto" data-ad-slot="5368144426" data-full-width-responsive="true" style="display:block"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div></fieldset> </div>
+</div>
+<div style="margin-top:2rem;">
+<div style="margin-top:20px; margin-bottom:20px; height:90px;"><div class="ff-advert ff-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90";
+    e9.noAd = 1;
+//--></script>
+<script src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js" type="text/javascript"></script></div></div></div></div>
+</div>
+<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+<a href="https://www.facebook.com/Whos-Dated-Who-161093650579384/" target="_blank">
+<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+</div>
+</div>
+<div id="ff-footer">
+<div class="row collapse">
+<div>
+<div class="ff-rtime">0.179</div>
+<div class="small-3 columns text-left">
+<h3><a href="/">whosdatedwho.com</a></h3>
+</div>
+<div class="small-9 columns text-right">
+<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+</div>
+</div>
+</div>
+<div class="row center">
+<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+</div>
+</div>
+</div>
+<div aria-hidden="true" aria-labelledby="ff-zdialog-title" class="reveal-modal" data-reveal="" id="ff-zdialog" role="dialog"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+<script crossorigin="anonymous" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&amp;_c=A|2&amp;t=1583745205" type="text/javascript"></script>
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+<script crossorigin="anonymous" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&amp;_c=A|2&amp;t=1583745205" type="text/javascript"></script>
+<script>
+</script>
+<script>	
+__trx.agent([1,3859888,2,1,"","",3,"%2Fdating%2Ftimothee-chalamet","",0]);
+</script>
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-903bQOpJXvFzg"
+	});
+	</script>
+<noscript>
+<div style="display:none;">
+<img alt="Quantcast" border="0" height="1" src="//pixel.quantserve.com/pixel/p-903bQOpJXvFzg.gif" width="1"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<form><input class="data-ff-sss" type="hidden"/></form>
+</body>
+</html>
